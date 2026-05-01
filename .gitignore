@@ -11,6 +11,10 @@ frontend/.next/
 .vscode/
 .DS_Store
 
+# Environment
+.env
+docker-compose.override.yml
+
 # Fichiers temporaires
 *.wav
 temp_audio.wav
