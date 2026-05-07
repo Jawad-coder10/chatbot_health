@@ -1,3 +1,5 @@
+name: chatbot_health_stack
+
 services:
   backend:
     image: chatbot_health-backend
