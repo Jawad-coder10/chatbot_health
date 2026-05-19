@@ -1,0 +1,701 @@
+text,intent,language
+"bghit wa7d boite dial paracetamol",demande_medicament,arabizi
+"3tini chi aspro dial ras",demande_medicament,arabizi
+"khasni chi sachet dial rwa7",demande_medicament,arabizi
+"wach kain dak siro l7mer dial lk7ba",demande_medicament,arabizi
+"bghit nakhod fanid dial wj3 lkrch",demande_medicament,arabizi
+"3afak 3tini chi pomada dial cicatrice",demande_medicament,arabizi
+"khasni 9wilbat dial skhana ldrari sghar",demande_medicament,arabizi
+"wach 3ndkom vitamin c kidub fel ma",demande_medicament,arabizi
+"bghit dwa dial l7asasiya 3afak",demande_medicament,arabizi
+"3tini chi 9tra dial lwednin",demande_medicament,arabizi
+"khasni njib had dwa dial skar",demande_medicament,arabizi
+"wach 3ndk dak lfanid dial lmsran",demande_medicament,arabizi
+"bghit chi siro idawb lk7ba",demande_medicament,arabizi
+"3tini wa7d lpomada dial l7ri9 dial chms",demande_medicament,arabizi
+"khasni chi comprimé ihden sda3",demande_medicament,arabizi
+"wach momkin t3tini had dwa bla ordonnance",demande_medicament,arabizi
+"bghit wa7d bakhakh dial nif",demande_medicament,arabizi
+"3tini chi dwa dial do5a",demande_medicament,arabizi
+"khasni fanid dial lma3da",demande_medicament,arabizi
+"wach kayna chi pomada dial rkabi",demande_medicament,arabizi
+"bghit nchri had l9wilbat",demande_medicament,arabizi
+"3tini sachet dial lberd",demande_medicament,arabizi
+"khasni dwa dial di9a",demande_medicament,arabizi
+"wach 3ndkom chi gel dial snan ldrari",demande_medicament,arabizi
+"bghit 9tra dial l3inin 7omer",demande_medicament,arabizi
+"3tini chi comprimé dial n3as",demande_medicament,arabizi
+"khasni kina dial la tension",demande_medicament,arabizi
+"wach kain dak siro dial fat7 chahiya",demande_medicament,arabizi
+"bghit chi pomada dial fitriyat",demande_medicament,arabizi
+"3tini wa7d spira dial ras",demande_medicament,arabizi
+"khasni kina dial l7mala",demande_medicament,arabizi
+"wach 3ndk dwa dial lkolyztirol",demande_medicament,arabizi
+"bghit chi siro dial l9abt",demande_medicament,arabizi
+"3tini 9wilbat dial lbwasr",demande_medicament,arabizi
+"khasni chi dwa dial l'allergie",demande_medicament,arabizi
+"wach kayna lpomada dial l3in",demande_medicament,arabizi
+"bghit fanid dial l7la9m",demande_medicament,arabizi
+"3tini chi sachet dial l7or9a",demande_medicament,arabizi
+"khasni nakhod had l'antibiotique",demande_medicament,arabizi
+"wach 3ndkom chi dwa dial l9ml",demande_medicament,arabizi
+"bghit pomada dial lkdam",demande_medicament,arabizi
+"3tini chi kina kiy7ayed lma mn rkabi",demande_medicament,arabizi
+"khasni siro dial l7asasiya ldrari",demande_medicament,arabizi
+"wach kain chi dwa dial wj3 les regles",demande_medicament,arabizi
+"bghit nchri vitamin d",demande_medicament,arabizi
+"3tini lfanid dial lghoda",demande_medicament,arabizi
+"khasni chi pomada l dfar",demande_medicament,arabizi
+"wach 3ndk chi spray dial l7la9m",demande_medicament,arabizi
+"bghit dwa dial l'asthme",demande_medicament,arabizi
+"3tini wa7d lboite dial lmagnesium",demande_medicament,arabizi
+"bghit nakhod chi bakiya dial doliprane",demande_medicament,arabizi
+"3tini wa7d smecta dial lkrch 3afak",demande_medicament,arabizi
+"khasni chi wbra dial sda3 dial dhar",demande_medicament,arabizi
+"wach 3ndkom dwa l7mer",demande_medicament,arabizi
+"bghit bétadine dial ljer7",demande_medicament,arabizi
+"3tini chi fanid dial ch9i9a",demande_medicament,arabizi
+"khasni serum physiologique l dery sghir",demande_medicament,arabizi
+"wach momkin t3tini dwa dial n9s l7did",demande_medicament,arabizi
+"bghit chi fanid ki9wi ch3r w dfar",demande_medicament,arabizi
+"3tini chi dwa kiy7bs rdan",demande_medicament,arabizi
+"khasni nakhod zinc w vitamin c",demande_medicament,arabizi
+"wach 3ndk chi siro dial lk7ba ch7fa",demande_medicament,arabizi
+"bghit chi calcium l l3dam",demande_medicament,arabizi
+"3tini chi fanid dial doud dial lkrch",demande_medicament,arabizi
+"khasni lfanid dial ddaora chahriya",demande_medicament,arabizi
+"wach 3ndkom dwa dial lgoitre",demande_medicament,arabizi
+"bghit chi pomada dial l7rou9a dial lbota",demande_medicament,arabizi
+"3tini wa7d l'inhalateur dial rafouz",demande_medicament,arabizi
+"khasni savon médical l lbachra",demande_medicament,arabizi
+"wach 3ndk chi dwa dial tsemoum lghida2i",demande_medicament,arabizi
+"bghit pomada dial la3dat dial namous",demande_medicament,arabizi
+"3tini chi bakhakh kisrre7 nif",demande_medicament,arabizi
+"khasni nchri mokamil ghida2i dial omega 3",demande_medicament,arabizi
+"wach 3ndkom chi dwa ki3awn 3la n3as",demande_medicament,arabizi
+"bghit chi fanid ihbet sda3 dial drsa b zerba",demande_medicament,arabizi
+"3tini chi pomada katskhn l3dalat",demande_medicament,arabizi
+"khasni wa7d lfanid dial dwikha dial safar",demande_medicament,arabizi
+"wach 3ndk chi sachet dial lmsran lghlid",demande_medicament,arabizi
+"bghit l'insuline dial skar",demande_medicament,arabizi
+"3tini dwa dial boumezwi 3afak",demande_medicament,arabizi
+"khasni chi anti-inflammatoire",demande_medicament,arabizi
+"wach 3ndkom collyre l l3inin",demande_medicament,arabizi
+"bghit dwa kiybs lghraz",demande_medicament,arabizi
+"3tini dwa li kiy7ayed lkelf",demande_medicament,arabizi
+"khasni nchri lfanid dial lwlada",demande_medicament,arabizi
+"wach 3ndk chi pomada dial l7zaz",demande_medicament,arabizi
+"bghit chi fanid kighsel lkliy",demande_medicament,arabizi
+"3tini dak dwa li ki7eyed l'acide urique",demande_medicament,arabizi
+"khasni chi bain de bouche l snan",demande_medicament,arabizi
+"wach 3ndkom chi fanid dial l'a3sab",demande_medicament,arabizi
+"bghit chi spray dial lgrjouta",demande_medicament,arabizi
+"3tini chi pomada dial latras dial l7boub",demande_medicament,arabizi
+"khasni chi siro kikhwi sder mn lblghm",demande_medicament,arabizi
+"wach 3ndk 9wilbat dial trbya sghira",demande_medicament,arabizi
+"bghit lfanid dial lkyst",demande_medicament,arabizi
+"3tini chi dwa kiged d9at l9elb",demande_medicament,arabizi
+"khasni chi fanid dial les triglycérides",demande_medicament,arabizi
+"wach momkin tjib lia dak l'antibiotique mn lvitrina",demande_medicament,arabizi
+"bghit chi fasma w spradra l had ljer7a",demande_medicament,arabizi
+"3tini chi dwa dial lmrara",demande_medicament,arabizi
+"rasi kaydarni bzaf",description_symptome,arabizi
+"krchi kat9te3 bl wj3",description_symptome,arabizi
+"fia skhana tal3a lyoum",description_symptome,arabizi
+"kank7eb k7ba khawya",description_symptome,arabizi
+"nifi massdoud w kaysil",description_symptome,arabizi
+"3dami mdegdgin 3lia",description_symptome,arabizi
+"khesni nred ma9ditch",description_symptome,arabizi
+"fia dokha w matanchoufch mzyan",description_symptome,arabizi
+"3inaya 7mrin w kayaklouni",description_symptome,arabizi
+"l7la9m mnfoukhin ma9dertch nsrt",description_symptome,arabizi
+"dahri kay7re9ni mn lte7t",description_symptome,arabizi
+"sdri mzyer 3lia w matan9derch ntfes",description_symptome,arabizi
+"rkabiya kayti7ou 3lia",description_symptome,arabizi
+"wdni katsefer w katdarni",description_symptome,arabizi
+"snani kay3tiwni sda3 b lile",description_symptome,arabizi
+"nad fia wa7d l7boub f wejhi",description_symptome,arabizi
+"jldi kay7kni bzaf",description_symptome,arabizi
+"fia tbouricha w lberd chad fia",description_symptome,arabizi
+"ma3dti katrd 3lia makla",description_symptome,arabizi
+"3ndi l9abt hadi yomayn",description_symptome,arabizi
+"fia ishal w krchi jarya",description_symptome,arabizi
+"dnya kaddour bia fach kanod",description_symptome,arabizi
+"lmsran lghlid mnfoukh 3lia",description_symptome,arabizi
+"dersa t9bat w fiha l9i7",description_symptome,arabizi
+"9elbi kaydreb b zerba",description_symptome,arabizi
+"3ndi l7ri9 f lboula",description_symptome,arabizi
+"idiya kytre3dou bohdhom",description_symptome,arabizi
+"rejlia mnfoukhin blma",description_symptome,arabizi
+"3n9i t3wej w kaydarni",description_symptome,arabizi
+"chahiya msdouda makanaql walo",description_symptome,arabizi
+"kane3tes bzaf sba7",description_symptome,arabizi
+"fia sekhfa w mzyer",description_symptome,arabizi
+"ch3ri kayti7 lia bzaf had lyamat",description_symptome,arabizi
+"dfari kaythrso dghya",description_symptome,arabizi
+"3ndi lkelf f hnaky",description_symptome,arabizi
+"boumezwi kaykhbet fya",description_symptome,arabizi
+"3ndi t9ol f rasi",description_symptome,arabizi
+"souti tb7e7 w ma9adach nkharej",description_symptome,arabizi
+"kan3re9 bzaf flil",description_symptome,arabizi
+"mfasli homa li kayharkouni",description_symptome,arabizi
+"kandon fia f9r dem wjhi sfer",description_symptome,arabizi
+"3ndi wa7d lkyst f tedi",description_symptome,arabizi
+"njra7t w dem mabghach y7bes",description_symptome,arabizi
+"3inia dbabo 3lia",description_symptome,arabizi
+"la tension tal3a lia bzaf",description_symptome,arabizi
+"skar tayeh lia",description_symptome,arabizi
+"l7or9a tatl3 lia l grjouta",description_symptome,arabizi
+"l7am dialy chaded fih sda3",description_symptome,arabizi
+"3ndi nmil f yedi lisra",description_symptome,arabizi
+"tjm3 lia lblghm f sdri",description_symptome,arabizi
+"3ini lisra katrefref 3lia bzaf",description_symptome,arabizi
+"nifi kaydwz ddem bla saba",description_symptome,arabizi
+"mab9itch kanchem ri7a wla kanmde9",description_symptome,arabizi
+"jdatni wa7d lcrampe f sigan flil",description_symptome,arabizi
+"lltha dial snani mnfoukha w katsil b dem",description_symptome,arabizi
+"kannoud mn n3as mdegdeg bhal ila mant3tch",description_symptome,arabizi
+"kayjini l3tech bzaf w dima fmi nachef",description_symptome,arabizi
+"kandkhol l toilet nbol bzaf",description_symptome,arabizi
+"kay7re9ni l7al9 diali fach kanchreb lma",description_symptome,arabizi
+"t3etlat 3lia l3ada chahriya hadi chhar",description_symptome,arabizi
+"idia w rjlia dima mglasiyin blberd",description_symptome,arabizi
+"n9st f lwezn bzaf had chhar",description_symptome,arabizi
+"kayzra9 lia l7mi bla manedreb m3a ta haja",description_symptome,arabizi
+"ktfi tfek lia flmatch",description_symptome,arabizi
+"t7re9t b lma skhoun w nadet lia nabla",description_symptome,arabizi
+"wedni then9lat w sm3 3ndi n9es",description_symptome,arabizi
+"kaytrt9o lia rkabi fach kanbghi ngles",description_symptome,arabizi
+"3ndi l7ri9 f lkdam d rjlia sba7",description_symptome,arabizi
+"sba3 ydiya mchnjbin w mtklbchin",description_symptome,arabizi
+"jldt rasi kat7kni w fiha l9echra",description_symptome,arabizi
+"kaydarni sdri ldakhl fach kanjbed nfs",description_symptome,arabizi
+"fmi mjrou7 ldakhl w nado lia les aphtes",description_symptome,arabizi
+"wejhi kolo t7re9 b chms f lb7ar",description_symptome,arabizi
+"nado lia bo9alat f rejli b sbb sbat jdid",description_symptome,arabizi
+"dahri tploca 3lia ma9dertch nt7rek",description_symptome,arabizi
+"3n9i kay3tini sda3 w mabghach idour",description_symptome,arabizi
+"kan7es b nmil f sba3 rjlia sghar",description_symptome,arabizi
+"lboula diali mghlou9a bzaf f lon",description_symptome,arabizi
+"krchi mzyera bl gaz w mnfoukha",description_symptome,arabizi
+"kaychadni lwje3 dima wra lmakla",description_symptome,arabizi
+"katjini skhfa w r3da 3la lhlawa",description_symptome,arabizi
+"katjini lkhl3a w zmat f sdri flil",description_symptome,arabizi
+"n3as tar 3lia w mabghach yjini",description_symptome,arabizi
+"wa7d l3adala f fkhdi katzd7 bohdha",description_symptome,arabizi
+"lfk diali kaytrt9 fach kankol",description_symptome,arabizi
+"choufa f chms w do mjehed katdarni f 3inia",description_symptome,arabizi
+"snani kydrroni bzaf m3a lma lbarid",description_symptome,arabizi
+"jldi mchgug w nachef bzaf",description_symptome,arabizi
+"lke7oulia taht 3inia bayna bzaf",description_symptome,arabizi
+"welsis mnfoukh f 3n9i taht lfek",description_symptome,arabizi
+"3ndi 7bouba kbira taht bayti kadorny",description_symptome,arabizi
+"kanhder flil w kantsara f n3asi",description_symptome,arabizi
+"3ndi hachachat l3idam",description_symptome,arabizi
+"rjli tlwaw lia f drouj w tnfkhou",description_symptome,arabizi
+"ghladit b zerba f wa7d lwa9t 9sir",description_symptome,arabizi
+"fiya ri7a khayba f fmi rghma kaghsl snani",description_symptome,arabizi
+"3ndi wa7d jlafa f 3ini",description_symptome,arabizi
+"lmagana d skar mtkhrb9a lia had lyamat",description_symptome,arabizi
+"3ndi mouchkil f nte9 w lsani t9il",description_symptome,arabizi
+"kaytla3 lia dem l rassi w kaywli skhon",description_symptome,arabizi
+"bghit nchouf tbib",demande_consultation,arabizi
+"khasni nakhod rdv 3afak",demande_consultation,arabizi
+"wach tbib kayn lyoum",demande_consultation,arabizi
+"imta kiwli tbib dial l3inin",demande_consultation,arabizi
+"bghit ndwez 3nd tbib dial lmsran",demande_consultation,arabizi
+"wach momkin nched lnouba",demande_consultation,arabizi
+"khasni maw3id m3a genicologue",demande_consultation,arabizi
+"bghit nchouf tbib 3am",demande_consultation,arabizi
+"wach 3ndkom chi rdv khawi lyoum",demande_consultation,arabizi
+"imta kayji tbib dial jld",demande_consultation,arabizi
+"bghit ndwez l wldi sghir",demande_consultation,arabizi
+"khasni nchouf dentiste f a9rab wa9t",demande_consultation,arabizi
+"wach tbiba kayna f la clinique",demande_consultation,arabizi
+"bghit nakhod maowi3id l simana jaya",demande_consultation,arabizi
+"imta kay7el lcabinet",demande_consultation,arabizi
+"khasni ndwez 3la rasi",demande_consultation,arabizi
+"bghit n3ref wa9t l3amal dial tbib",demande_consultation,arabizi
+"wach momkin ndwez bla rdv",demande_consultation,arabizi
+"bghit nchouf specialiste dial l9elb",demande_consultation,arabizi
+"khasni nched blaseti m3a tbib",demande_consultation,arabizi
+"wach kayn chi tbib dial l3dam hna",demande_consultation,arabizi
+"bghit nakhod rdv m3a dermatologue",demande_consultation,arabizi
+"imta aakhir wa9t bach ndwez",demande_consultation,arabizi
+"khasni nchouf tbib dial sder",demande_consultation,arabizi
+"wach tbib msafer wla kayn",demande_consultation,arabizi
+"bghit ndwez 3la krchi",demande_consultation,arabizi
+"khasni nakhod rdv par telephone",demande_consultation,arabizi
+"wach momkin t9iyd smiyti lyoum",demande_consultation,arabizi
+"bghit nchouf pedriatre",demande_consultation,arabizi
+"imta kayebda tbib lidara",demande_consultation,arabizi
+"khasni ndwez 3nd tbib nfsani",demande_consultation,arabizi
+"bghit n3ayet nakhod mawi3id",demande_consultation,arabizi
+"wach kayn tbib dial drari sghar",demande_consultation,arabizi
+"khasni nchouf tbib dial snan",demande_consultation,arabizi
+"bghit rdv m3a tbiba dial nsa",demande_consultation,arabizi
+"imta kaykoun tbib dial chkika",demande_consultation,arabizi
+"khasni ndwez 3la wdenya",demande_consultation,arabizi
+"wach momkin nbadal lwa9t dial rdv",demande_consultation,arabizi
+"bghit nchouf chirurgien",demande_consultation,arabizi
+"khasni nakhod rdv f sba7",demande_consultation,arabizi
+"wach tbib kaykhdem b sebt",demande_consultation,arabizi
+"bghit ndwez urgence",demande_consultation,arabizi
+"imta kayji tbib dial soker",demande_consultation,arabizi
+"khasni nchouf kine",demande_consultation,arabizi
+"bghit nched rdv l mama",demande_consultation,arabizi
+"wach kayn chi blasa khawya l3chiya",demande_consultation,arabizi
+"khasni ndwez 3nd tbib dial lkliy",demande_consultation,arabizi
+"bghit nchouf specialiste dial lghoda",demande_consultation,arabizi
+"imta kaysali tbib lkhdma",demande_consultation,arabizi
+"khasni nakhod rdv l gheda",demande_consultation,arabizi
+"bghit nchouf l'ophtalmologue",demande_consultation,arabizi
+"khasni rdv m3a tbib l3dam",demande_consultation,arabizi
+"wach tbiba jat wla mazal",demande_consultation,arabizi
+"bghit ndwez f l3chiya",demande_consultation,arabizi
+"imta n9der nji ndwez",demande_consultation,arabizi
+"khasni rdv urgent 3afak",demande_consultation,arabizi
+"wach lcabinet m7loul lyoum",demande_consultation,arabizi
+"bghit n9eyed smiti f la liste",demande_consultation,arabizi
+"wach momkin ndkhol nchouf tbib",demande_consultation,arabizi
+"khasni ndwez 3nd tbib l7anjara",demande_consultation,arabizi
+"bghit nakhod mawi3id l simana dakhla",demande_consultation,arabizi
+"imta kaywli tbib d lghoda ddarakiya",demande_consultation,arabizi
+"khasni nchouf orl",demande_consultation,arabizi
+"wach tbiba d jeld kayna",demande_consultation,arabizi
+"bghit ndwez 3la rkabi",demande_consultation,arabizi
+"khasni rdv 3nd cardio",demande_consultation,arabizi
+"wach kayn tbib d ryat",demande_consultation,arabizi
+"bghit njib wldi idwez",demande_consultation,arabizi
+"imta n9der nchouf tbib l3am",demande_consultation,arabizi
+"khasni ndwez 3nd gastro",demande_consultation,arabizi
+"bghit rdv m3a urologue",demande_consultation,arabizi
+"wach momkin ndwez gheda f sba7",demande_consultation,arabizi
+"khasni nchouf dentiste lyoum",demande_consultation,arabizi
+"bghit n3ref chmen nhar kaykoun tbib",demande_consultation,arabizi
+"imta kybda tbib d soker",demande_consultation,arabizi
+"khasni rdv f a9rab wa9t momkin",demande_consultation,arabizi
+"wach kayna chi blasa l gheda",demande_consultation,arabizi
+"bghit ndwez 3la 3iniya",demande_consultation,arabizi
+"khasni nchouf specialiste d lmsran",demande_consultation,arabizi
+"bghit nakhod rdv l rajli",demande_consultation,arabizi
+"imta kaydkhol tbib",demande_consultation,arabizi
+"khasni ndwez 3nd tbib d l3sab",demande_consultation,arabizi
+"wach momkin t3tini rdv ljem3a",demande_consultation,arabizi
+"bghit nchouf tbib d lwlada",demande_consultation,arabizi
+"khasni ndwez 3la l7sasya",demande_consultation,arabizi
+"bghit rdv m3a tbib d rwa7",demande_consultation,arabizi
+"wach lcabinet kaykhdem flil",demande_consultation,arabizi
+"khasni nchouf genico lyoum",demande_consultation,arabizi
+"bghit n9eyed rdv b tilifon",demande_consultation,arabizi
+"imta kaykhroj tbib mn lclinique",demande_consultation,arabizi
+"khasni ndwez 3nd rhumato",demande_consultation,arabizi
+"bghit nchouf tbib d drari",demande_consultation,arabizi
+"wach kayn chi rdv had simana",demande_consultation,arabizi
+"khasni ndwez 3la wdniya",demande_consultation,arabizi
+"bghit nakhod rdv l lwalid",demande_consultation,arabizi
+"imta n9der njib lwalida tdwez",demande_consultation,arabizi
+"khasni nchouf specialiste d lklawi",demande_consultation,arabizi
+"bghit ndwez 3la sda3 rasi",demande_consultation,arabizi
+"wach tbiba d nsa kayna lyoum",demande_consultation,arabizi
+"khasni rdv m3a psy",demande_consultation,arabizi
+"3iytou l ambulance daba",demande_urgence,arabizi
+"khasna sbitar b zerba",demande_urgence,arabizi
+"wa93at kssida 3iytou l l'is3af",demande_urgence,arabizi
+"sayed skhef lina hna",demande_urgence,arabizi
+"dih l urgence taymout",demande_urgence,arabizi
+"fin jat a9rab sbitar",demande_urgence,arabizi
+"3iytou l pompier 3afak",demande_urgence,arabizi
+"rah makaytnfesch 3t9ouh",demande_urgence,arabizi
+"dem kaysil bzaf ddiwh l urgence",demande_urgence,arabizi
+"khasna nmchiw l sbitar daba daba",demande_urgence,arabizi
+"3t9o rou7 rah kaymoute",demande_urgence,arabizi
+"3iyt l samu 3afak",demande_urgence,arabizi
+"jib tonobil dih l sbitar",demande_urgence,arabizi
+"kayn chi tbib hna urgence",demande_urgence,arabizi
+"hadchi makaytsnach khasna sbitar",demande_urgence,arabizi
+"ddiweh l qism lmosta3jalat",demande_urgence,arabizi
+"rah ta7 w drab raso 3iytou l ambulance",demande_urgence,arabizi
+"fin homa les urgences d la clinique",demande_urgence,arabizi
+"3iytou l chi tbib b zerba",demande_urgence,arabizi
+"khasna is3af f a9rab wa9t",demande_urgence,arabizi
+"rajel ta7 f l ard makayt7rekch",demande_urgence,arabizi
+"saftou lina ambulance l had l'adresse",demande_urgence,arabizi
+"rah sret chi haja khasna n3t9oh",demande_urgence,arabizi
+"wldi t7re9 ddiwh l sbitar daba",demande_urgence,arabizi
+"wa 3ibad lah 3iytou l sbitar",demande_urgence,arabizi
+"had l7ala s3iba diwh l urgence",demande_urgence,arabizi
+"rah f ghaybouba 3iytou l tbib",demande_urgence,arabizi
+"bghina ambulance mjehza",demande_urgence,arabizi
+"fin kayn sbitar d dawla l9rib",demande_urgence,arabizi
+"khasna ndkhlouh l in3ach",demande_urgence,arabizi
+"srbiw jibo l'is3af",demande_urgence,arabizi
+"had lmrid khas ythaz f ambulance",demande_urgence,arabizi
+"dirou chi 7al rah kaymoute b lwje3",demande_urgence,arabizi
+"chkon 3ndo ra9m d samu",demande_urgence,arabizi
+"3iytou l police w l ambulance",demande_urgence,arabizi
+"ddiha l clinique b zerba wlat katwled",demande_urgence,arabizi
+"tfrege3 3lih lbota 3iyt l pompier",demande_urgence,arabizi
+"rah t9et3o lih sba3o jib is3af",demande_urgence,arabizi
+"zrebo 3lih l urgence rah ghadi ymot",demande_urgence,arabizi
+"sayda katchra9 3t9oha",demande_urgence,arabizi
+"khasna oxygene daba 3iytou l samu",demande_urgence,arabizi
+"chof chi taxi ddina l urgence",demande_urgence,arabizi
+"had lhala urgence makatsnach rdv",demande_urgence,arabizi
+"khwew tri9 l ambulance dwez",demande_urgence,arabizi
+"rah tah mn drouj 3iytou l sbitar",demande_urgence,arabizi
+"khaso tbib d in3ach daba",demande_urgence,arabizi
+"rah kla sm ddiwh yghslou lih lma3da",demande_urgence,arabizi
+"sara3o jibo l is3af w 3t9o sber",demande_urgence,arabizi
+"3iytou l sbitar sayed tzad 3lih lhal",demande_urgence,arabizi
+"tla3 l sbitar l kbir daba matstnach",demande_urgence,arabizi
+"jibo l is3af rah ddo drbo",demande_urgence,arabizi
+"sayda tahat mn charjem 3iytou l ambulance",demande_urgence,arabizi
+"3t9ouna rah 9elbo w9ef",demande_urgence,arabizi
+"ddiwh l sbitar l3skari b zerba",demande_urgence,arabizi
+"khasna blasa f reanimation lyoum",demande_urgence,arabizi
+"rah skhef w wjho zra9",demande_urgence,arabizi
+"safto tbib hna l had dar",demande_urgence,arabizi
+"wa fidouha l urgence matkheliwhach hna",demande_urgence,arabizi
+"sayed dakh w mabghach ifi9",demande_urgence,arabizi
+"rah kayerd ddem ddiwh l sbitar",demande_urgence,arabizi
+"khas ytdkhel chirurgien daba",demande_urgence,arabizi
+"3iytou l tbib dial l gherz rah tjre7 bzaf",demande_urgence,arabizi
+"jib chi wa7d isoug bina l sbitar",demande_urgence,arabizi
+"rah ddrba jat f raso khaso sbitar",demande_urgence,arabizi
+"3afakom l'ambulance l had lblasa",demande_urgence,arabizi
+"tla3 biha l qism l wlada hadchi 7ala musta3jala",demande_urgence,arabizi
+"khso ytnfes sena3i daba srbiw",demande_urgence,arabizi
+"tbib lmosta3jalat ychof had l7ala b zerba",demande_urgence,arabizi
+"rah lhal s3ib bzaf 3iyt l samu",demande_urgence,arabizi
+"ddiwna l a9rab blasa fiha tbib",demande_urgence,arabizi
+"3t9ou drri sghir srret riala",demande_urgence,arabizi
+"sayed jabha fih motor 3iyt l is3af",demande_urgence,arabizi
+"rah jatah jlta dmaghiya zrbo 3lih",demande_urgence,arabizi
+"khaso sbitar rah l7rara tl3at lih bzaf w kaytre3d",demande_urgence,arabizi
+"sayda w9e3 liha nazif kbir 3t9oha",demande_urgence,arabizi
+"3iyt l numro d l'ambulance daba",demande_urgence,arabizi
+"jibo brancard hezo sayed rah ma9adch inod",demande_urgence,arabizi
+"rah lfasma 3mrat b ddem ddih l urgence",demande_urgence,arabizi
+"3t9ouna f had tri9 rah wa93a ksida khayba",demande_urgence,arabizi
+"khasna na9l tibbi mjehez dghya",demande_urgence,arabizi
+"rah chadou wje3 d l9elb ddiwh sbitar",demande_urgence,arabizi
+"tbib d l'in3ach khaso yji daba",demande_urgence,arabizi
+"wldi t9te3 b jaje jibo is3af",demande_urgence,arabizi
+"3tini ra9m d l'urgence d sbitar lkbir",demande_urgence,arabizi
+"ddiwh l bloc dial l3amaliyat zrban",demande_urgence,arabizi
+"rah trt9at lih zayda diwh l sbitar taymout",demande_urgence,arabizi
+"3afak jri l sbitar rah l7ala khatera",demande_urgence,arabizi
+"sayda ghatjif b lk7ba 3iytou l tbib",demande_urgence,arabizi
+"zreb jib l'is3af rah katmot bina",demande_urgence,arabizi
+"sayed t9te3 lih 3er9 w dem hreb",demande_urgence,arabizi
+"jib is3af rah ma9dertch nhezou bo7di",demande_urgence,arabizi
+"3t9ouh rah tah fl hufra w tderbed",demande_urgence,arabizi
+"khas yji tbib l dar l7ala ma tsm7ch nhezouh",demande_urgence,arabizi
+"diwna f wa9t 9sir l urgence 3afakom",demande_urgence,arabizi
+"chkon yddina l sbitar d daba rah lil hada",demande_urgence,arabizi
+"rah khda dwa bzaf w skhef 3iyt l tsemoum",demande_urgence,arabizi
+"siftou lina l weqaya l madaniya b zerba",demande_urgence,arabizi
+"rah n3as f bit fih l gaz 3t9ouh 9bl maymot",demande_urgence,arabizi
+"sayed kaygheb w kafi9 zrbo jibo urgence",demande_urgence,arabizi
+"tla3 b zrba l sbitar rah lwa9t makaynch",demande_urgence,arabizi
+"wach had dwa fih rjou3 d cnss",remboursement_mutuelle,arabizi
+"3afak 3mer lia had lwer9a d lmutuelle",remboursement_mutuelle,arabizi
+"wach kat9blo lcarte dial amo tadamon",remboursement_mutuelle,arabizi
+"chhal ghayraj3o lia f had l'ordonnance",remboursement_mutuelle,arabizi
+"wach had lfanid kidoz f cnops",remboursement_mutuelle,arabizi
+"khasni cachet dial lfrmasyan f wri9at d mutuelle",remboursement_mutuelle,arabizi
+"nsiti madrtich lia code a barre f lwer9a",remboursement_mutuelle,arabizi
+"wach dertou lia taba3 f dossier d cnss",remboursement_mutuelle,arabizi
+"had siro wach fih remboursement ola la",remboursement_mutuelle,arabizi
+"bghit nsewel wach katkhdmo b tiers payant f la pharmacie",remboursement_mutuelle,arabizi
+"3afak lsse9 lia les vignettes f lwer9a d tbib",remboursement_mutuelle,arabizi
+"wach t9der t3mer lia lmilif d cnss mn 3ndk",remboursement_mutuelle,arabizi
+"had l'antibiotique mafihch taba3 d mutuelle",remboursement_mutuelle,arabizi
+"wach katdiro prise en charge l had dwa d skar",remboursement_mutuelle,arabizi
+"khlini n3tik lcarte d cgem tdwzha lia",remboursement_mutuelle,arabizi
+"3tini lfacture bach ndf3ha l assurance rma",remboursement_mutuelle,arabizi
+"wach had lppomada remboursable wla non",remboursement_mutuelle,arabizi
+"khasni ncopier l'ordonnance w tgaliziha lia l mutuelle",remboursement_mutuelle,arabizi
+"chhal d lpercentage kayrodo f dwa d l9elb",remboursement_mutuelle,arabizi
+"wach tsauviti dossier f l systeme dial amo",remboursement_mutuelle,arabizi
+"nsit njib lwer9a lkhedra wach n9der njibha gheda twritni",remboursement_mutuelle,arabizi
+"3tini ticket d caisse fih smiti 3la 9bel cnss",remboursement_mutuelle,arabizi
+"wach tbib nsiti maktebch l'identifiant f l'ordonnance",remboursement_mutuelle,arabizi
+"had dwayat kamlin kidozo f cnops ola kayn chi whed la",remboursement_mutuelle,arabizi
+"lsse9 lia les codes a barres bla matsderhom f lwer9a",remboursement_mutuelle,arabizi
+"wach kat9blo l'assurance dial saham",remboursement_mutuelle,arabizi
+"3afak dir lia l cachet w signature dialek hna t7t",remboursement_mutuelle,arabizi
+"had lwezra dial sbitar makatrje3ch f lmutuelle yak",remboursement_mutuelle,arabizi
+"wach la cnss kat3ewed 3la had lkine",remboursement_mutuelle,arabizi
+"bghit nchouf chhal hsbto f dossier d mutuelle",remboursement_mutuelle,arabizi
+"chof lia f l'ordinateur wach carte amo diali khdama",remboursement_mutuelle,arabizi
+"lwer9a d tbib d3t lia bghit copie bach ndf3ha cnss",remboursement_mutuelle,arabizi
+"wach kayna chi tahiya dial taman l s7ab ramid",remboursement_mutuelle,arabizi
+"3tini l code d l'inpe dial tbib bach n3mer lwer9a",remboursement_mutuelle,arabizi
+"wach dwayat d la pharmacie kayrodo fihom 70 ola 100",remboursement_mutuelle,arabizi
+"khasni facture proforma l l'assurance",remboursement_mutuelle,arabizi
+"had lmekmel lghida2i mabghawch irodo lia flouso",remboursement_mutuelle,arabizi
+"wach 3ndkom tisfar d la mutuelle general",remboursement_mutuelle,arabizi
+"dossier rj3ouh lia galo lia khask cachet d lpharmacie",remboursement_mutuelle,arabizi
+"wach kayna lprise en charge l les maladies chroniques",remboursement_mutuelle,arabizi
+"bghit nzido f dossier d cnss t9der t3mer had lpartie",remboursement_mutuelle,arabizi
+"had lfanid mafihch code barre kifach ghandir m3a cnss",remboursement_mutuelle,arabizi
+"wach nakhod dwa w nkhales ghi lfar9 ola nkhles kolchi",remboursement_mutuelle,arabizi
+"3afak lsse9 liya ppv f plasteha lfoq",remboursement_mutuelle,arabizi
+"lmutuelle tlbo lia l'ordonnance originale yak 3ndk copie",remboursement_mutuelle,arabizi
+"wach la cnss kat9bel t3wid 3la dwayat d jeld",remboursement_mutuelle,arabizi
+"chhal taystghr9 lwaqt bach cnops treje3 lflous",remboursement_mutuelle,arabizi
+"bghit formulaire jdida d amo rani ghlet f hadok",remboursement_mutuelle,arabizi
+"dir lia l cachet f lwer9a b 3bach nsaft l dossier l mutuelle",remboursement_mutuelle,arabizi
+"wach andkom l'accord m3a wafa assurance",remboursement_mutuelle,arabizi
+"wach ndader d chouf kayrodo fihom lmutuelle",remboursement_mutuelle,arabizi
+"tqt3at lya lvignette wach ghayqbloha cnops",remboursement_mutuelle,arabizi
+"chhal d lweqt 3ndi lhaq bach ndfe3 dossier l cnss",remboursement_mutuelle,arabizi
+"galo lya f dar daman dossier naqes chno khasni nzid",remboursement_mutuelle,arabizi
+"wach l'assurance kighetiw hta l3amaliyat d tjmil",remboursement_mutuelle,arabizi
+"kifach ndir ntsjel f amo tadamon mn jdid",remboursement_mutuelle,arabizi
+"wach kayn t3wid 3la seance d lkine m3a cnss",remboursement_mutuelle,arabizi
+"rj3o lya dossier hit makaynch signature d tbib w date",remboursement_mutuelle,arabizi
+"bghit nchof wach tl3 lya rjou3 d flousi f lcompte",remboursement_mutuelle,arabizi
+"had dwa d l a3ssab wach fih remboursement m100",remboursement_mutuelle,arabizi
+"khasni warqat prise en charge l l'hopital",remboursement_mutuelle,arabizi
+"wach tqder tkherej lya historique d dwayat d lmutuelle",remboursement_mutuelle,arabizi
+"kifach ntb3 dossier dyali f l'application d macnss",remboursement_mutuelle,arabizi
+"wach yqblo lya ordonnance mdewez 3liha ktar mn chharin",remboursement_mutuelle,arabizi
+"tbib d snan kteb liya dva fih devis l cnops",remboursement_mutuelle,arabizi
+"wach dwayat dyal lhomeopathie fihom rembousement",remboursement_mutuelle,arabizi
+"nsit madsrt l'ordonnance b l photocopie kifach ndir",remboursement_mutuelle,arabizi
+"had dwa kaygolo fih plafond f remboursement yak",remboursement_mutuelle,arabizi
+"wach 3tiwni attestation d non prise en charge",remboursement_mutuelle,arabizi
+"chnahouwa dossier li khasni njm3 l la mutuelle wafa",remboursement_mutuelle,arabizi
+"wach kat9blo carte de soins dyal les forces armees",remboursement_mutuelle,arabizi
+"lwer9a d tbib fzat lya wach yqbloha f mutuelle",remboursement_mutuelle,arabizi
+"wach t3tiwni note d'honoraire mhtoma",remboursement_mutuelle,arabizi
+"kifach nf3 dossier dyal dwayat cancer f amo maladies chroniques",remboursement_mutuelle,arabizi
+"daba ana 3ad dkhelt l khdma imta tbda cnss trje3 lya",remboursement_mutuelle,arabizi
+"wach tbib nsiti maktebtich l code d l'acte f dossier",remboursement_mutuelle,arabizi
+"had dwayat dyal vitaminat makyt3wedoch fihom flous yak",remboursement_mutuelle,arabizi
+"l'imprimé dyal mutuelle chkon ghadi i3emro ana wla lfrmasyan",remboursement_mutuelle,arabizi
+"wach radi tjini lflous f lbanka wla par mandat",remboursement_mutuelle,arabizi
+"cnops 3tlou 3lia bzaf bach idwzo lya dossier d l3amaliya",remboursement_mutuelle,arabizi
+"wach katzido chi frais 3la remplissage d lwerqa d mutuelle",remboursement_mutuelle,arabizi
+"bghit bulletin de soin jdid hit lakhur d3 lya",remboursement_mutuelle,arabizi
+"wach l'assureur ghadi isift lya l'accord m3a lclinique",remboursement_mutuelle,arabizi
+"chkoun li kihseb taux de remboursement wch pharmacie wla sbitar",remboursement_mutuelle,arabizi
+"dossier rejetaweh lya galik les vignettes mamsawyinch",remboursement_mutuelle,arabizi
+"wach les tests d l7mala kydozou f cnss wla la",remboursement_mutuelle,arabizi
+"kifach nstafed mn prise en charge totale",remboursement_mutuelle,arabizi
+"wach khsni ndir copie l les codes a barre qbl mansifthom",remboursement_mutuelle,arabizi
+"l'assurance kigholou lya dwa makaynch f nomencloture",remboursement_mutuelle,arabizi
+"wach la cnss katrje3 flous consultation d psy",remboursement_mutuelle,arabizi
+"had dwa chrito b taman ghal mn l prix public wach irj3oh lya",remboursement_mutuelle,arabizi
+"tbib ma dar lya cachet f lwer9a jdida d amo",remboursement_mutuelle,arabizi
+"wach khasni nsift lwerqa l'originale wla rir copie",remboursement_mutuelle,arabizi
+"kifach nzido wldi jdid f dossier d lmutuelle",remboursement_mutuelle,arabizi
+"wach nqder ndfe3 dossiers d 3 mois mjemou3in d9a w7da",remboursement_mutuelle,arabizi
+"had dwa tbdl smyto wach idouz f cnops b smya jdida",remboursement_mutuelle,arabizi
+"wach kayn chi mochkila ila date l'ordonnance qdima bzaf",remboursement_mutuelle,arabizi
+"chhal kyqet3o f cnss 3la les frais d l'hospitalisation",remboursement_mutuelle,arabizi
+"bghit nhseb chhal rayrdo lya f had tahlilat d dem",remboursement_mutuelle,arabizi
+"wach carte d mutuelle dyal rajli tkhdem lya hta ana",remboursement_mutuelle,arabizi
+"chhal mn hba nakhod f nhar",demande_posologie,arabizi
+"wach nchreb had siro 9bl wla mora lmakla",demande_posologie,arabizi
+"kifach nsta3mel had lpomada f wjhi",demande_posologie,arabizi
+"chhal mn m3il9a n3ti l wldi sghir f lila",demande_posologie,arabizi
+"wach had lfanid kiykhad 3la rri9 f sba7",demande_posologie,arabizi
+"chhal mn n9ita ndir f wdni lyoum",demande_posologie,arabizi
+"wach had dwa kaytmdegh ola kaytsret blma",demande_posologie,arabizi
+"imta lwa9t lmzn bach nakhod had l'antibiotique",demande_posologie,arabizi
+"wach n9sem l7ba 3la jouj ola nakhdha kamla",demande_posologie,arabizi
+"had sachet wach ndawbo f lma skhoun wla bared",demande_posologie,arabizi
+"chhal d lwa9t nkheli had champoing f rasi 9bl manghsel",demande_posologie,arabizi
+"wach n3ti had dwa l trbya 9bl trde3 wla b3d",demande_posologie,arabizi
+"kifach nrecha had spray f nifi",demande_posologie,arabizi
+"wach nakhod had l9wilbat blil wla bnhar",demande_posologie,arabizi
+"had pomada wach ndhenha b zerba wla nmasiha",demande_posologie,arabizi
+"chhal mn mrra f nhar nsta3ml had l bain de bouche",demande_posologie,arabizi
+"wach had dwa fih n3as wla n9der nsog",demande_posologie,arabizi
+"chhal mn qatra dial l3in ndir f kounla jiha",demande_posologie,arabizi
+"wach nchreb m3ah lma bzaf wla gha chwia",demande_posologie,arabizi
+"had fanid d sda3 nakhdo gha l daroura ola dima",demande_posologie,arabizi
+"wach nsta3mel l'inhalateur d dika fach tjinni l'azma ola dima",demande_posologie,arabizi
+"chhal lmodda nb9a nakhod f had dwa",demande_posologie,arabizi
+"wach had lfanid d lma3da nakhdo nhar kml wla gha f l3chiya",demande_posologie,arabizi
+"kifach nlssq had sparadra l medicamentée",demande_posologie,arabizi
+"wach n9der nchrb had siro m3a lfanid lakhor f d9a w7da",demande_posologie,arabizi
+"chhal mn wbra khassni ndir f la semaine",demande_posologie,arabizi
+"wach nkhlet had l'antibiotique m3a l7lib",demande_posologie,arabizi
+"kifach nsawb had dwa d sshal l rradia3",demande_posologie,arabizi
+"wach l fanid d skar nakhdo wste lmakla",demande_posologie,arabizi
+"chhal nkhli ben had dwa w dwa lkhr",demande_posologie,arabizi
+"wach nsta3mel had lgel 3la bashra nachfa wla mfloha",demande_posologie,arabizi
+"had serum physiologique nkhelhlo kolo f nif bébé",demande_posologie,arabizi
+"wach nbda l'antibiotique daba wla ntsna tal gheda",demande_posologie,arabizi
+"chhal d l9tarat l wjeh mn had l'huile",demande_posologie,arabizi
+"wach had les vitamines nakhdhom f sba7 hsen",demande_posologie,arabizi
+"kifach nkhelet had lghbra m3a lma d l'antibiotique",demande_posologie,arabizi
+"wach nbedel lfasma kol nhar ola nhar iyeh w nhar la",demande_posologie,arabizi
+"had dwa wla kybyn lia n3as wach n9so mn jra3a",demande_posologie,arabizi
+"wach lpomada d chms ndirha dima 9bl mankhroj",demande_posologie,arabizi
+"chhal ntsna dlwaqt bin n9tate d l3inin hmir",demande_posologie,arabizi
+"had dwa wach kiyttkhad b l cuillère a soupe ola café",demande_posologie,arabizi
+"wach l9wilbat nkhchihom kamlin",demande_posologie,arabizi
+"kifach nst3ml had l'appareil d la tension m3a dwa",demande_posologie,arabizi
+"wach nchreb spira w tbte3ha b smecta blil",demande_posologie,arabizi
+"had dwa dyal rwa7 wach fih 3 ayam wla 5 ayam",demande_posologie,arabizi
+"wach n9der nmdegh kina ila jani kbir f sret",demande_posologie,arabizi
+"kifach ndir had le masque l ch3ri b dwa",demande_posologie,arabizi
+"wach had siro kikhsk tb9a tfrikiha 9bl masta3ml",demande_posologie,arabizi
+"chhal mn qatra d vit d n3ti l wldi f chhar",demande_posologie,arabizi
+"wach had dwa nakhdo ila kan wj3 wla nkemel ttraitement",demande_posologie,arabizi
+"nsit makheditch lfanida lbare7 wach nakhod jouj lyoum",demande_posologie,arabizi
+"had lkina lfwara ndirha f kas kbir wla sghir d lma",demande_posologie,arabizi
+"wach ymknek twrini kifach nkhdem had lrabouz d diqa",demande_posologie,arabizi
+"lqwilbat d lqodam wach ndirhom blil qbl mann3es",demande_posologie,arabizi
+"fin hssen ndoq chouka d skar f lkerch wla f lfkhad",demande_posologie,arabizi
+"wach nqder nkhlet had dwa m3a danon l drri sghir",demande_posologie,arabizi
+"had l'ampoule wach katchreb wla katdeq f l3dal",demande_posologie,arabizi
+"chhal d lma nzayd f had lqer3a d l'antibiotique",demande_posologie,arabizi
+"wach nbda nchreb lkina d mn3 l7aml mn nhar lowel",demande_posologie,arabizi
+"had pomada wach ndhenha 3la jor7 mftou7 wla la",demande_posologie,arabizi
+"wach nmedgh lfanid d lma3da wla nserto dghya",demande_posologie,arabizi
+"imta njbdo l'insuline mn tllaja qbl mandrebha",demande_posologie,arabizi
+"had lkapsoulat nakhdhom blma bared wla dafi",demande_posologie,arabizi
+"wach had dwa d s3la nakhdo m3a lmakla wla ykon krchi khawya",demande_posologie,arabizi
+"kifach nsta3ml had les patch d l'hormone",demande_posologie,arabizi
+"wach nqder nw9ef l'antibiotique ila 7sit b rasi wlit mzyan",demande_posologie,arabizi
+"chhal mn bwakha ndir b l'inhalateur f dqa",demande_posologie,arabizi
+"had siro d ldidane wach n3tih l wldi 3la rriq",demande_posologie,arabizi
+"wach nzreb f lmakla mora manakhod dwa d skar",demande_posologie,arabizi
+"kifach ndir had lqtrat d lwednin l bebe sghir",demande_posologie,arabizi
+"chhal nkhli lpomada f wjhi qbl manghsel",demande_posologie,arabizi
+"wach had lfanid kidir dokha ila khdito f sba7",demande_posologie,arabizi
+"kifach n9iy wjhi qbl mandir had gel d l7boub",demande_posologie,arabizi
+"wach nqder nchreb atay mora had lfanid d l7did",demande_posologie,arabizi
+"had dwa d l3sab nakhdo m3a l3cha wla ntsna hta nbghi nn3s",demande_posologie,arabizi
+"wach ndir bain de bouche blma skhoun wla bared",demande_posologie,arabizi
+"chhal lweqt khasni ntsna bin pomada w pomada khra",demande_posologie,arabizi
+"had l'ovule wach ndirha kol lila wla nhar ah w nhar la",demande_posologie,arabizi
+"wach l'ecran solaire n3awd ndirha kol sa3tin",demande_posologie,arabizi
+"had lpastilles d lqarjouta wach nsserthou wla nmshom",demande_posologie,arabizi
+"kifach nqteq had lqwilbat d sskhana ila kano kbar 3la wldi",demande_posologie,arabizi
+"wach had lkina katsbeb lqabt nakhod m3aha chi lliyen",demande_posologie,arabizi
+"had spray d sder wach nrcho dakhil f grjouti",demande_posologie,arabizi
+"kifach nsawb lma w lml7a d rehydratation l trbya",demande_posologie,arabizi
+"wach nkhelli had les lentilles f 3ini fach nkoun ghadi nn3s",demande_posologie,arabizi
+"imta n3ti l wldi les vitamines bach i3tih jehd f lqraya",demande_posologie,arabizi
+"had traitement d ch3ar wach ndiro f jeld wla f zghba",demande_posologie,arabizi
+"kifach nbdel l pnsment dyal l3amaliya f dar bo7di",demande_posologie,arabizi
+"wach nqder njme3 dwa d tansyoun w dwa d lqelb f nfs lweqt",demande_posologie,arabizi
+"had lkisan d lhijama imta nqder ndirhom",demande_posologie,arabizi
+"wach nchreb lkina dyal lghoda nfs lwqiqa kol nhar",demande_posologie,arabizi
+"kifach nbkher b had le3choub d rwa7 m3a lma skhoun",demande_posologie,arabizi
+"wach had dwa fih l'alcool wla non",demande_posologie,arabizi
+"had pomada d l3in wach ndirha ldakhl wla 3la brra",demande_posologie,arabizi
+"chhal d lweqt ndir massage b had zit d lmfassel",demande_posologie,arabizi
+"wach nqder nsoum w ana kanakhod had dwa d lma3da",demande_posologie,arabizi
+"kifach nsta3ml had la brosse interdentaire",demande_posologie,arabizi
+"had siro dyal lhihsasiya wach n3tih l wldi f lmdrasa wla ghir f dar",demande_posologie,arabizi
+"wach nqder nfertet lkina w ndirha f lmakla",demande_posologie,arabizi
+"chhal d les doses f had lqerqa dyal l'insuline",demande_posologie,arabizi
+"bchhal had dwa 3afak",demande_prix,arabizi
+"wach had kina ghali bzaf",demande_prix,arabizi
+"chhal taman dial tlfaza 3nd tbib",demande_prix,arabizi
+"bchhal katbi3ou had siro",demande_prix,arabizi
+"chhal ghanghles f la caisse",demande_prix,arabizi
+"wach taman dialo mnasb",demande_prix,arabizi
+"bchhal had lpomada d chms",demande_prix,arabizi
+"chhal t9am 3lia had l'ordonnance",demande_prix,arabizi
+"chhal kiklf lkchf 3nd tbib l3am",demande_prix,arabizi
+"3tini l prix dial had dwa d skar",demande_prix,arabizi
+"wach kayn chi wahed rkhis 3la hada",demande_prix,arabizi
+"bchhal n9der nal9a had l'antibiotique f so9",demande_prix,arabizi
+"chhal nzidek 3la had l'avance li 3titk",demande_prix,arabizi
+"wach nfs taman f ga3 les pharmacies",demande_prix,arabizi
+"bchhal kaytba3 had mokamil ghida2i",demande_prix,arabizi
+"chhal wsel taman dial l'insuline lyoum",demande_prix,arabizi
+"wach tzadet l prix f had dwa",demande_prix,arabizi
+"bchhal t7seblya had lfasma w bétadine",demande_prix,arabizi
+"chhal na3tik f le mblagh kaml",demande_prix,arabizi
+"wach had sachet kighel mn lakhor",demande_prix,arabizi
+"bchhal kitba3 lboite kamla dial lkian",demande_prix,arabizi
+"chhal khlas tbib d snan",demande_prix,arabizi
+"bchhal kat7sbo tabrija d l'inhalation l drari sghar",demande_prix,arabizi
+"3tini chhal nwejed d lflous l had l'ordonnance",demande_prix,arabizi
+"chhal kidayr had dwa had lyamat",demande_prix,arabizi
+"bchhal had spray dial nif yalah khedto",demande_prix,arabizi
+"chhal taman d lkors d l'antibiotique kaml",demande_prix,arabizi
+"wach had dwa d l3sab rkhis chi chwiya",demande_prix,arabizi
+"bchhal njib liya lpomada d l7ri9 mn 3ndkom",demande_prix,arabizi
+"chhal d flous nkhli lik f total",demande_prix,arabizi
+"bchhal kitl3 traitement d lkyst f chhar",demande_prix,arabizi
+"chhal le prix d l'ecographie f clinique",demande_prix,arabizi
+"bchhal ghadi tjini had lwer9a d tbib kamla",demande_prix,arabizi
+"chhal kit9am chighane d snan w tbyad",demande_prix,arabizi
+"bchhal katbi3ou les tests de grossesse",demande_prix,arabizi
+"chhal hseb liya lfrmasyan lhad lma9atir d l3in",demande_prix,arabizi
+"bchhal katdiro l'analyse d dem hna",demande_prix,arabizi
+"chhal kykhlso f visite d tbib d l3inin f l'hopital",demande_prix,arabizi
+"bchhal nchri l'appareil d la tension mzyana",demande_prix,arabizi
+"chhal taman d les lentilles de contact",demande_prix,arabizi
+"bchhal katbi3o l7lib d les bébés dyal 6 mois",demande_prix,arabizi
+"chhal d flous khasni l had dwayat lkhmsa",demande_prix,arabizi
+"bchhal kyhseb tbib d lghoda visite lawla",demande_prix,arabizi
+"chhal nkhles 3la had consultation 3afak",demande_prix,arabizi
+"bchhal had lgel hydroalcoolique sghir",demande_prix,arabizi
+"chhal t9amt l3amaliya d lzayda 3la wldk",demande_prix,arabizi
+"bchhal kaybi3o jbira d id f parapharmacie",demande_prix,arabizi
+"chhal taman l'irm f la clinique jwaz",demande_prix,arabizi
+"bchhal nhseb had les gouttes d wednin",demande_prix,arabizi
+"chhal kat9t3o f taman l nas d ramid f dwa",demande_prix,arabizi
+"wach 3ndkom chi dwa d rwa7 mayfotch 20 dh",demande_prix,arabizi
+"bchhal kiti7 lkrich d l3wina 3nd l'ophtalmo",demande_prix,arabizi
+"3tini l prix dyal had lkroussa d lmo3aqin",demande_prix,arabizi
+"wach kayn chi generique d had dwa ykon rkhis chwiya",demande_prix,arabizi
+"chhal na3tik f lmajmo3 dyal had l wriqat b jouj",demande_prix,arabizi
+"bchhal katbi3o had les bandelettes d l3bar d skar",demande_prix,arabizi
+"chhal lkri dyal lqer3a d l'oxygene f chhar",demande_prix,arabizi
+"wach taman dyal had hlib d rradi3 mwehed f ga3 lfrmasyanat",demande_prix,arabizi
+"bchhal ndir tahlila d lkhazan d sokar f labo",demande_prix,arabizi
+"chhal kikhlsso f l'irm dyal rkab",demande_prix,arabizi
+"bchhal nakhod had les couches d les adultes",demande_prix,arabizi
+"wach tqder dir liya chi rmis f had lproduit de beaute",demande_prix,arabizi
+"chhal ywqef 3liya traitement d la dente kaml",demande_prix,arabizi
+"bchhal taman d les seringues m3a choukat dyalhom",demande_prix,arabizi
+"chhal tayhsbou tbbat d nfs f jalsa w7da",demande_prix,arabizi
+"wach kayna chi tahiya f taman dyal les vaccins d drari",demande_prix,arabizi
+"bchhal katqam l3amaliya d ljalala 3la l3in",demande_prix,arabizi
+"chhal sawyia had pomada dyal l'acne",demande_prix,arabizi
+"bchhal n9der nal9a mizan l7rara electronique",demande_prix,arabizi
+"wach kayn chi ferq f taman bin hlib lpharmacie w supermarche",demande_prix,arabizi
+"chhal khasso ikhls f dwa lma3da hit ma3ndoch mutuelle",demande_prix,arabizi
+"bchhal had le gel intime 3afak",demande_prix,arabizi
+"chhal katzidou f taman d la garde blil",demande_prix,arabizi
+"bchhal scanner dyal sder lyoum",demande_prix,arabizi
+"chhal katbi3o had lmasqat chirurgicale",demande_prix,arabizi
+"wach had les vitamines khedamine w tamanhom mzyan",demande_prix,arabizi
+"bchhal t7seb liya 10 dyal les boites d lfanid",demande_prix,arabizi
+"chhal prix d tahlila dyal lkolyzirole",demande_prix,arabizi
+"bchhal kitba3 laiguille dyal stylo d l'insuline",demande_prix,arabizi
+"chhal nkhelik l had les pansements w bétadine ghmra",demande_prix,arabizi
+"wach dwayat dyal cancer ghalin bzaf",demande_prix,arabizi
+"bchhal lqaleb d snan 3nd dentiste",demande_prix,arabizi
+"chhal kigolo l hadak dwa li kayrkhkhy l3adalat",demande_prix,arabizi
+"bchhal nchri l'appareil d rbo w l'asthme",demande_prix,arabizi
+"chhal ndfe3 f l'avance dyal lclinique",demande_prix,arabizi
+"bchhal dak zit l'essentiel d lavande",demande_prix,arabizi
+"chhal kyhseb tbib d jeld f la consultation o laser",demande_prix,arabizi
+"wach 3ndk chi lfanid d sda3 rkhis w f3al",demande_prix,arabizi
+"bchhal katbi3o saboun tbi d l7ssasiya",demande_prix,arabizi
+"chhal kikhless lwahed f seance dyal la kine f lma",demande_prix,arabizi
+"bchhal lqwilbat d lghlaz f la pharmacie",demande_prix,arabizi
+"chhal kitqam dossier medical l drari lmdrasa",demande_prix,arabizi
+"bchhal kitqamo les analyses d l7mala",demande_prix,arabizi
+"chhal nwejed d flous l tbiba d wlada normal",demande_prix,arabizi
+"bchhal katdir chemise dyal bloc operatoire",demande_prix,arabizi
+"wach had l'ecran totale fih promotion",demande_prix,arabizi
+"bchhal katzowlo welsisa 3nd jirah",demande_prix,arabizi
+"chhal taman dyal sérum antivenimeux",demande_prix,arabizi
+"bchhal kiti7 dwayat d lkbda f chehar",demande_prix,arabizi
+"chhal ghadi izido f les prix d l'antibiotique",demande_prix,arabizi
