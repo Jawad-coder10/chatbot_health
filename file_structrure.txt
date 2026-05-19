@@ -1,0 +1,24 @@
+chatbot_health/
+├── backend/
+│   ├── app/
+│   │   ├── main.py
+│   │   ├── preprocessing.py
+│   │   ├── classifier.py
+│   │   ├── entity_extractor.py
+│   │   ├── pipeline.py
+│   │   └── models/
+│   │       └── intent_model/        ← mBERT fine-tuné ici
+│   │
+│   ├── data/
+│   │   ├── arabizi_intent.csv
+│   │   ├── medqa_intent.csv
+│   │   └── intent_final.csv
+│   │
+│   ├── notebooks/
+│   │   ├── 01_eda.ipynb
+│   │   └── 02_finetune_intent.ipynb
+│   │
+│   └── requirements.txt
+│
+├── .gitignore
+└── README.md

@@ -18,3 +18,8 @@ docker-compose.override.yml
 # Fichiers temporaires
 *.wav
 temp_audio.wav
+backend/notebooks/results/
+backend/models/intent_model/
+*.safetensors
+*.pt
+*.bin
