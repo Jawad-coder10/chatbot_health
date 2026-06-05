@@ -1,0 +1,1219 @@
+text,intent,language
+طبيب المفاصل.,demande_consultation,arabe
+Voir le chirurgien.,demande_consultation,francais
+"Heart attack, send medics!",demande_urgence,english
+tbib d nboula,demande_consultation,arabizi
+القلب كيضرب بالزربة.,description_symptome,arabe
+Urgences les plus proches ?,demande_urgence,francais
+عييت ولحمي مدكدك.,description_symptome,arabe
+Plaques rouges sur la peau.,description_symptome,francais
+Bad headache for days.,description_symptome,english
+Directions for use?,demande_posologie,english
+tbib d lklawi,demande_consultation,arabizi
+واش هادشي داخل في التغطية؟,remboursement_mutuelle,arabe
+Cuillères à soupe ou à café ?,demande_posologie,francais
+Amygdales gonflées.,description_symptome,francais
+طبع ليا ورقة الدوا عافاك.,remboursement_mutuelle,arabe
+خصني كونطرول عند الجينيكو.,demande_consultation,arabe
+I want some magnesium.,demande_medicament,en
+وحلات ليه ماكلة تخنق!,demande_urgence,arabe
+طنين في الودن.,description_symptome,arabe
+Couverture CNOPS ?,remboursement_mutuelle,francais
+Cuillères de sirop jour ?,demande_posologie,francais
+tbiba d nsa 3afak,demande_consultation,arabizi
+rdv dermato,demande_consultation,arabizi
+Bilan sanguin prix ?,demande_prix,francais
+"Inconscient, appelez les pompiers !",demande_urgence,francais
+wach dentiste msali gheda,demande_consultation,arabizi
+Prise en charge AMO ?,remboursement_mutuelle,francais
+denia kaddour bia,description_symptome,arabizi
+"Vite, une ambulance !",demande_urgence,francais
+wach me9boul f la mutuelle?,remboursement_mutuelle,arabizi
+بيبي مريض.,demande_consultation,arabe
+Physical therapy rate?,demande_prix,english
+Préparation pour nourrisson prix ?,demande_prix,francais
+راديو بشحال كديروه؟,demande_prix,arabe
+أحتاج إلى قطرات للعين.,demande_medicament,ar
+Critical condition!,demande_urgence,english
+khssni chi 7aja l wje3 les regles,demande_medicament,arabizi
+عطيني دوفي ديال الفيزيتا.,demande_prix,arabe
+Life-threatening situation!,demande_urgence,english
+بغيت بومادا ديال الحريق.,demande_medicament,darija_ar
+"Huge car crash, help!",demande_urgence,english
+شحال من كينة د المص؟,demande_posologie,arabe
+wa7lat lih makla tkhne9!,demande_urgence,arabizi
+Give me an estimate for the visit.,demande_prix,english
+Démarche mutuelle ?,remboursement_mutuelle,francais
+Voir mon médecin traitant.,demande_consultation,francais
+الدم خارج بزاف من الجرحة.,demande_urgence,arabe
+7issa 3nd psy,demande_consultation,arabizi
+dose lyoumiya?,demande_posologie,arabizi
+bghit sirop l drari sghar,demande_medicament,arabizi
+Crampes d'estomac.,description_symptome,francais
+Belly ache.,description_symptome,english
+RAMED refund?,remboursement_mutuelle,english
+C'est remboursé ?,remboursement_mutuelle,francais
+Can I get some throat lozenges?,demande_medicament,en
+أحتاج شيئًا لصداع الرأس.,demande_medicament,ar
+"Il saigne beaucoup, urgence !",demande_urgence,francais
+عطيني كينة ديال المعدة.,demande_medicament,darija_ar
+شحال الراديو؟,demande_prix,arabe
+Where's the nearest trauma center?,demande_urgence,english
+7ala khatira!,demande_urgence,arabizi
+الكحبة قجتني.,description_symptome,arabe
+"Snapped leg, need transport!",demande_urgence,english
+Quel prix pour ça ?,demande_prix,francais
+التغطية الصحية كترد عليه؟,remboursement_mutuelle,arabe
+Mode d'emploi crème ?,demande_posologie,francais
+Il me faut quelque chose pour le mal des transports.,demande_medicament,fr
+fa7s lmasalik lbawliya,demande_consultation,arabizi
+wach kayrje3ou 3lih flous?,remboursement_mutuelle,arabizi
+carte d dwa me9boula?,remboursement_mutuelle,arabizi
+Cachets tarif ?,demande_prix,francais
+Facture IRM ?,demande_prix,francais
+Cracked skull emergency.,demande_urgence,english
+Can you give me some antacids?,demande_medicament,en
+Neuro doctor tomorrow.,demande_consultation,english
+Charge for an X-ray?,demande_prix,english
+قاد ليا وريقات لاميتيال.,remboursement_mutuelle,arabe
+Where is the nearest hospital for accidents?,demande_urgence,english
+قبل ولا مورا الماكلة؟,demande_posologie,arabe
+l3dam kayderrou,description_symptome,arabizi
+ch7al lmaximum f nhar?,demande_posologie,arabizi
+Médicament toux prix ?,demande_prix,francais
+tbib d choufa,demande_consultation,arabizi
+Room is spinning.,description_symptome,english
+Gros accident de la route !,demande_urgence,francais
+3tini chi 7aja l wje3 ras,demande_medicament,arabizi
+Démangeaisons.,description_symptome,francais
+Nauseous and puking.,description_symptome,english
+Avez-vous quelque chose pour le mal de gorge ?,demande_medicament,fr
+wach momkin nakhd rendez-vous m3a tbib d l9alb,demande_consultation,arabizi
+Do you have blood pressure pills?,demande_medicament,en
+Swallowed poison!,demande_urgence,english
+صيفطو مسعف دابا.,demande_urgence,arabe
+ch7al nkhlles 3la had dwa?,demande_prix,arabizi
+تهرس، جيبو الاسعاف!,demande_urgence,arabe
+Tour de reins.,description_symptome,francais
+creme bch7al?,demande_prix,arabizi
+Cough medicine cost?,demande_prix,english
+تحاليل المختبر بشحال؟,demande_prix,arabe
+Syrup price?,demande_prix,english
+Having a seizure!,demande_urgence,english
+I want to buy paracetamol.,demande_medicament,en
+معلومات على لاميتيال؟,remboursement_mutuelle,arabe
+Syrup spoons per day?,demande_posologie,english
+"Head trauma, call for help!",demande_urgence,english
+Blood test cost?,demande_prix,english
+السخانة طالعة عليا.,description_symptome,arabe
+bghit ndwz 3nd tbib,demande_consultation,arabizi
+Bilan neurologique.,demande_consultation,francais
+ghobra kifax nkhelt'ha?,demande_posologie,arabizi
+Déclaration assurance ?,remboursement_mutuelle,francais
+CNSS reimbursement?,remboursement_mutuelle,english
+Do you have sleeping pills?,demande_medicament,en
+أحتاج إلى مضادات حيوية.,demande_medicament,ar
+tariqat listi3mal?,demande_posologie,arabizi
+Urgence plaie.,demande_urgence,francais
+تضرب للراس، عتقو!,demande_urgence,arabe
+Caisse de maladie rembourse ?,remboursement_mutuelle,francais
+Carte vitale acceptée ?,remboursement_mutuelle,francais
+شحال من كبسولة؟,demande_posologie,arabe
+charika d l'assurance katrejje3?,remboursement_mutuelle,arabizi
+عطيني شي حاجة لحرقة المعدة.,demande_medicament,darija_ar
+الدوزاج د الصغار؟,demande_posologie,arabe
+3tini devis d lvisita,demande_prix,arabizi
+mafasili kay7re9ouni,description_symptome,arabizi
+Gélules posologie ?,demande_posologie,francais
+السنان كيحرقو.,description_symptome,arabe
+Détails remboursement ?,remboursement_mutuelle,francais
+Contrat couvre ça ?,remboursement_mutuelle,francais
+Pouvez-vous me donner des antiacides ?,demande_medicament,fr
+واش كاين شي دوا للحلاقم؟,demande_medicament,darija_ar
+Séjour hôpital tarif ?,demande_prix,francais
+"Lunettes, besoin ophtalmo.",demande_consultation,francais
+هل يمكنك إعطائي دواء للأنفلونزا؟,demande_medicament,ar
+واش عندكم فنيد ديال النعاس؟,demande_medicament,darija_ar
+Back spasms.,description_symptome,english
+I need an ointment for burns.,demande_medicament,en
+واش كاين بيطادين؟,demande_medicament,darija_ar
+bghit chi fanid d n3as,demande_medicament,arabizi
+ضرستي غتقتلني.,description_symptome,arabe
+خاصني دوا ديال الردان.,demande_medicament,darija_ar
+Can I get some stomach ache pills?,demande_medicament,en
+3tini dwa d lma3da,demande_medicament,arabizi
+jatou crise d sra3!,demande_urgence,arabizi
+كرشي كتقطع بالوجع.,description_symptome,arabe
+Rendez-vous docteur aujourd'hui.,demande_consultation,francais
+CNOPS document stamp?,remboursement_mutuelle,english
+Public insurance cover?,remboursement_mutuelle,english
+Scanner tarif ?,demande_prix,francais
+How often should I take this?,demande_posologie,english
+dossier assurance d lkhedma?,remboursement_mutuelle,arabizi
+kerchi kat9te3 b lwje3,description_symptome,arabizi
+Feuille de maladie ?,remboursement_mutuelle,francais
+واش كتقبلو لاميتيال؟,remboursement_mutuelle,arabe
+Fréquence de prise ?,demande_posologie,francais
+الحلاقم منفوخين.,description_symptome,arabe
+طبيب العظام كاين؟,demande_consultation,arabe
+istichara d l3sab,demande_consultation,arabizi
+Aide médicale urgente.,demande_urgence,francais
+Do you have antiseptic cream?,demande_medicament,en
+هل لديك حبوب منومة؟,demande_medicament,ar
+Insurance coverage for this?,remboursement_mutuelle,english
+Reimbursement details?,remboursement_mutuelle,english
+9ra lia lwer9a d dwa,demande_posologie,arabizi
+Gel application rules?,demande_posologie,english
+CNSS paperwork?,remboursement_mutuelle,english
+فيا السهال.,description_symptome,arabe
+Mal au bide.,description_symptome,francais
+دفع ملف التغطية الصحية؟,remboursement_mutuelle,arabe
+Cream usage instructions?,demande_posologie,english
+Before or after meals?,demande_posologie,english
+Tiers payant possible ?,remboursement_mutuelle,francais
+7issa d kine bch7al?,demande_prix,arabizi
+موعد مع ديال العظام.,demande_consultation,arabe
+wach 3ndk kinat d l7aml?,demande_medicament,arabizi
+Spine hurts.,description_symptome,english
+Quantité de crème à mettre ?,demande_posologie,francais
+sirop lk7ba ch7al?,demande_prix,arabizi
+rdv m3a d l3dam,demande_consultation,arabizi
+wdni kat3ti sda3,description_symptome,arabizi
+7ri9 lma3da,description_symptome,arabizi
+Nuit d'hôpital prix ?,demande_prix,francais
+Mutuelle eligible?,remboursement_mutuelle,english
+tbib nefsani,demande_consultation,arabizi
+أريد بعض المغنيسيوم.,demande_medicament,ar
+Insert instructions?,demande_posologie,english
+Remboursement CNSS ?,remboursement_mutuelle,francais
+tna9ya d snan bch7al?,demande_prix,arabizi
+How to administer these drops?,demande_posologie,english
+C'est une urgence grave !,demande_urgence,francais
+gel kifax ndirou?,demande_posologie,arabizi
+Tooth hurts so bad.,description_symptome,english
+Stamp my papers please.,remboursement_mutuelle,english
+dose d pomada ch7al?,demande_posologie,arabizi
+قيدني عند الطبيب.,demande_consultation,arabe
+Appelez le SAMU !,demande_urgence,francais
+CNSS sheet stamp?,remboursement_mutuelle,english
+Imagerie médicale coût ?,demande_prix,francais
+ksida khayba 3t9ou!,demande_urgence,arabizi
+حساسية خايبة طاح!,demande_urgence,arabe
+الجرعة اليومية؟,demande_posologie,arabe
+كيفاش ندير القويلبات؟,demande_posologie,arabe
+Rdv spécialiste os.,demande_consultation,francais
+شحال من حبة نشرب في النهار؟,demande_posologie,arabe
+bghit rdv m3a tbib d l3sab,demande_consultation,arabizi
+thers jibou l is3af!,demande_urgence,arabizi
+طبيب الشوفة.,demande_consultation,arabe
+طبيب الراس.,demande_consultation,arabe
+Antibiotics price?,demande_prix,english
+Toux qui ne passe pas.,description_symptome,francais
+Je cherche un sirop pour bébé.,demande_medicament,fr
+RAMED coverage?,remboursement_mutuelle,english
+Cardiologist next week?,demande_consultation,english
+بغيت شي حاجة لراس.,demande_medicament,darija_ar
+كنقلب على دوا ديال السكر.,demande_medicament,darija_ar
+واش كاين شي سيرو للحريق ديال الدراري؟,demande_medicament,darija_ar
+ازمة تنفس، طاح.,demande_urgence,arabe
+Loose stools.,description_symptome,english
+Où est le CHU ?,demande_urgence,francais
+des infos 3la la mutuelle?,remboursement_mutuelle,arabizi
+اللثة منفوخة.,description_symptome,arabe
+Surgery pricing?,demande_prix,english
+ramed dayz?,remboursement_mutuelle,arabizi
+Fréquence inhalateur ?,demande_posologie,francais
+Une estimation du coût ?,demande_prix,francais
+l7arara mertaf3a,description_symptome,arabizi
+ma9ditch nsret,description_symptome,arabizi
+ثمن التلفازة؟,demande_prix,arabe
+جيبو طبيب بالزربة.,demande_urgence,arabe
+Pouvez-vous me donner quelque chose contre la diarrhée ?,demande_medicament,fr
+شحال التحليلة د الدم؟,demande_prix,arabe
+بغيت ندوز على ودني.,demande_consultation,arabe
+sbitar d jra7?,demande_urgence,arabizi
+نزيف مجهد، ديوه للسبيطار!,demande_urgence,arabe
+واش لاميتيال كتقبلو؟,remboursement_mutuelle,arabe
+بغيت دوا ديال الحكة.,demande_medicament,darija_ar
+طبيب القلب السيمانة الجاية.,demande_consultation,arabe
+Orthopedist visit this week.,demande_consultation,english
+centre d tasmoum 3ajil,demande_urgence,arabizi
+skhana tal3a 3liya,description_symptome,arabizi
+Hives all over.,description_symptome,english
+Emergency room for cuts?,demande_urgence,english
+7lib rda3a bch7al?,demande_prix,arabizi
+"Broken bones, ambulance!",demande_urgence,english
+7issas tarwid ch7al?,demande_prix,arabizi
+"Oreille bouchée, ORL.",demande_consultation,francais
+ظهري كيعطيني الحريق.,description_symptome,arabe
+شحال نخلص على هاد الدوا؟,demande_prix,arabe
+الشركة د التأمين كترد؟,remboursement_mutuelle,arabe
+9ad lia wri9at la mutuelle,remboursement_mutuelle,arabizi
+Crise d'épilepsie en cours !,demande_urgence,francais
+Neuro dispo quand ?,demande_consultation,francais
+هل يمكنني الحصول على كريم للطفح الجلدي؟,demande_medicament,ar
+حصة الترويض بشحال؟,demande_prix,arabe
+السيرو بشحال؟,demande_prix,arabe
+Bilan dermato.,demande_consultation,francais
+bghit tbib d l7la9m,demande_consultation,arabizi
+تحرق بزاف، فين نمشيو؟,demande_urgence,arabe
+"Trauma crânien, urgences !",demande_urgence,francais
+Docteur appareil urinaire.,demande_consultation,francais
+حصة عند طبيب نفسي.,demande_consultation,arabe
+Secours immédiats.,demande_urgence,francais
+"Please send an ambulance, it's urgent!",demande_urgence,english
+How much cream to apply?,demande_posologie,english
+fanid ch7al dayr?,demande_prix,arabizi
+Douleur dentaire.,description_symptome,francais
+bghit ndwz 3la wdni,demande_consultation,arabizi
+ch7al t7lila d dem?,demande_prix,arabizi
+Rdv psy.,demande_consultation,francais
+Avez-vous des inhalateurs pour l'asthme ?,demande_medicament,fr
+wach 3ndkom smecta?,demande_medicament,arabizi
+هل لديك أي شيء لالتهاب الحلق؟,demande_medicament,ar
+chre7 lia dosage,demande_posologie,arabizi
+Tablet count daily?,demande_posologie,english
+k7ba nachfa mabghatch tfout,description_symptome,arabizi
+With food or empty stomach?,demande_posologie,english
+الجيلول كيفاش يتشرب؟,demande_posologie,arabe
+كنقلب على دوا ديال الحساسية.,demande_medicament,darija_ar
+Matin ou soir ?,demande_posologie,francais
+Lozenge limit?,demande_posologie,english
+العظام كيضرو.,description_symptome,arabe
+Can you give me something for heartburn?,demande_medicament,en
+My head is pounding.,description_symptome,english
+دوا الكحبة بشحال؟,demande_prix,arabe
+Séance psychiatre.,demande_consultation,francais
+Soins dentaires prix ?,demande_prix,francais
+Pouvez-vous me donner quelque chose contre les brûlures d'estomac ?,demande_medicament,fr
+تنقية السنان بشحال؟,demande_prix,arabe
+لامو دايزة؟,remboursement_mutuelle,arabe
+ثمن الفيزيتا؟,demande_prix,arabe
+Need some eye drops.,demande_medicament,en
+الحرارة مرتفعة.,description_symptome,arabe
+ch7al ghat9am t7lila?,demande_prix,arabizi
+خصني نشوف طبيب الدراري.,demande_consultation,arabe
+ليريم شحال كيدير؟,demande_prix,arabe
+Où sont les urgences cardiaques ?,demande_urgence,francais
+الغبرة كيفاش نخلطها؟,demande_posologie,arabe
+3dam mherssa 3iytou l ambulance,demande_urgence,arabizi
+sifto mous3if daba,demande_urgence,arabizi
+3tini chi dwa d skhana,demande_medicament,arabizi
+J'ai besoin de pastilles contre la toux.,demande_medicament,fr
+Bouffées par prise ?,demande_posologie,francais
+Book an ENT.,demande_consultation,english
+Baby needs a doctor.,demande_consultation,english
+Sore tonsils.,description_symptome,english
+Mal de crâne terrible.,description_symptome,francais
+Ointment dose?,demande_posologie,english
+assurance prive katrejje3 flous?,remboursement_mutuelle,arabizi
+ch7al mn recha d rabouz?,demande_posologie,arabizi
+I'd like to see a cardiologist.,demande_consultation,english
+تفاصيل التعويض؟,remboursement_mutuelle,arabe
+kayter3ed sra3,demande_urgence,arabizi
+bghit n9lb jeldi,demande_consultation,arabizi
+Notice suppo ?,demande_posologie,francais
+أريد شراء مرهم للعضلات.,demande_medicament,ar
+Can I get a cream for a rash?,demande_medicament,en
+khssni antibiotique 3afak,demande_medicament,arabizi
+Manoeuvre de Heimlich urgence !,demande_urgence,francais
+Rejets gastriques.,description_symptome,francais
+Urgence allergie !,demande_urgence,francais
+3tini maxilase,demande_medicament,arabizi
+Médicaments coût total ?,demande_prix,francais
+Need a gynecologist asap.,demande_consultation,english
+How expensive is the bloodwork?,demande_prix,english
+rdv dial l9alb,demande_consultation,arabizi
+Pouvez-vous me donner des médicaments contre la grippe ?,demande_medicament,fr
+مصاريف السبيطار؟,demande_prix,arabe
+هل يمكنك إعطائي بعض مضادات الحموضة؟,demande_medicament,ar
+l9alb kaydreb b zerba,description_symptome,arabizi
+طلقو كلشي، حالة طوارئ.,demande_urgence,arabe
+"Lâchez tout, urgence médicale.",demande_urgence,francais
+Hacking cough.,description_symptome,english
+Mutuelle d'entreprise couvre ?,remboursement_mutuelle,francais
+طبيب الانف والحنجرة.,demande_consultation,arabe
+كيفاش نقطر هاد القطرات؟,demande_posologie,arabe
+Je peux en prendre deux ?,demande_posologie,francais
+"Asthma attack, collapsing!",demande_urgence,english
+Anaphylactic shock!,demande_urgence,english
+Cette crème coûte combien ?,demande_prix,francais
+Spiking a fever.,description_symptome,english
+I must see a urologist.,demande_consultation,english
+فورميلة د لاسيرونس؟,remboursement_mutuelle,arabe
+جيل كيفاش نديرو؟,demande_posologie,arabe
+"Brûlure grave, que faire ?",demande_urgence,francais
+مصاريف الجراحة؟,demande_prix,arabe
+I'm looking for baby cough syrup.,demande_medicament,en
+dehri tderre3,description_symptome,arabizi
+Remplir dossier CNOPS.,remboursement_mutuelle,francais
+أبحث عن البروبيوتيك.,demande_medicament,ar
+l7anjara kat7re9,description_symptome,arabizi
+عطيني شي حاجة للحرقة.,demande_medicament,darija_ar
+هاد البومادا شحال دايرة؟,demande_prix,arabe
+Toux grasse.,description_symptome,francais
+ta7alil ch7al?,demande_prix,arabizi
+شحال من مرة؟,demande_posologie,arabe
+khssni nchouf tbib d drari,demande_consultation,arabizi
+Avis chirurgical.,demande_consultation,francais
+bghit ndwz 3la 3iniya,demande_consultation,arabizi
+Joints are stiff.,description_symptome,english
+Dossier Tadamon ?,remboursement_mutuelle,francais
+Pediatrician availability for tomorrow?,demande_consultation,english
+Booking for an eye doctor.,demande_consultation,english
+Hôpital pour hémorragie ?,demande_urgence,francais
+radio bch7al kadirouh?,demande_prix,arabizi
+فين كاين السبيطار الكبير؟,demande_urgence,arabe
+بغيت نصاوب سناني.,demande_consultation,arabe
+شحال من قطرة؟,demande_posologie,arabe
+Weird rash on my arm.,description_symptome,english
+Remplir papiers assurance.,remboursement_mutuelle,francais
+General doctor consultation.,demande_consultation,english
+wach kat9blou la mutuelle?,remboursement_mutuelle,arabizi
+Avez-vous de l'aspirine ?,demande_medicament,fr
+Nombre de cachets ?,demande_posologie,francais
+tanin f lwedn,description_symptome,arabizi
+Mal de tête persistant.,description_symptome,francais
+a9rab sbitar d lksayd?,demande_urgence,arabizi
+بغيت نشري دوليبران.,demande_medicament,darija_ar
+جلطة دماغية، 15!,demande_urgence,arabe
+Chirurgie coût ?,demande_prix,francais
+pomada ch7al tamanha?,demande_prix,arabizi
+b zerba 3iytou l is3af!,demande_urgence,arabizi
+Je cherche un dermatologue.,demande_consultation,francais
+Rdv gorge et nez.,demande_consultation,francais
+Ear nose throat doc visit.,demande_consultation,english
+C'est combien ?,demande_prix,francais
+ch7al mn mera nchrbou?,demande_posologie,arabizi
+"Severe burn, where to go?",demande_urgence,english
+Urgence respiratoire !,demande_urgence,francais
+How much will the MRI set me back?,demande_prix,english
+هل لديك دواء للزكام؟,demande_medicament,ar
+"Deep cut, losing blood.",demande_urgence,english
+استشارة د الاعصاب.,demande_consultation,arabe
+Dry cough won't stop.,description_symptome,english
+Scanning fees?,demande_prix,english
+عتقو الروح!,demande_urgence,arabe
+Remboursement AMO comment faire ?,remboursement_mutuelle,francais
+فين مستعجلات القلب؟,demande_urgence,arabe
+Dispatch an ambulance.,demande_urgence,english
+الراس كيحرقني بزاف.,description_symptome,arabe
+Je veux des antihistaminiques.,demande_medicament,fr
+بغيت نقلب جلدي.,demande_consultation,arabe
+khssni dwa d rdan,demande_medicament,arabizi
+خاصني الحديد عافاك.,demande_medicament,darija_ar
+l'amo dayza?,remboursement_mutuelle,arabizi
+كيترعد، صرع.,demande_urgence,arabe
+حالة حرجة!,demande_urgence,arabe
+Infos mutuelle ?,remboursement_mutuelle,francais
+bebe mrid,demande_consultation,arabizi
+Alertez les urgences !,demande_urgence,francais
+drsti ghat9tlni,description_symptome,arabizi
+ch7al mn sachet f nhar?,demande_posologie,arabizi
+Urgence neurologique !,demande_urgence,francais
+3bar l3inin,demande_consultation,arabizi
+Do you have anything for constipation?,demande_medicament,en
+كاشي د لاميتيال.,remboursement_mutuelle,arabe
+واش هاد الدوا كيترومبورصا؟,remboursement_mutuelle,arabe
+sba7 wla b lil?,demande_posologie,arabizi
+رنديفو ديرماتو.,demande_consultation,arabe
+تخنق، زربو!,demande_urgence,arabe
+Unconscious guy here.,demande_urgence,english
+الحنجرة كتحرق.,description_symptome,arabe
+MRI scan price?,demande_prix,english
+واش كاين رابوز ديال الضيقة؟,demande_medicament,darija_ar
+AMO Tadamon ça marche ?,remboursement_mutuelle,francais
+Combien le rdv ?,demande_prix,francais
+amo tadamon khedama?,remboursement_mutuelle,arabizi
+Booker une séance médicale.,demande_consultation,francais
+امو تضامن خدامة؟,remboursement_mutuelle,arabe
+RAMED pris en charge ?,remboursement_mutuelle,francais
+Rééducation prix ?,demande_prix,francais
+J'ai besoin de vitamine C.,demande_medicament,fr
+عظام مهرسة، عيطو للاسعاف.,demande_urgence,arabe
+I need some cough drops.,demande_medicament,en
+تشخيص عام.,demande_consultation,arabe
+طبيب الاعصاب بغيت موعد.,demande_consultation,arabe
+أحتاج إلى مرهم للحروق.,demande_medicament,ar
+How to get my money back?,remboursement_mutuelle,english
+tbib d l3dam kayn?,demande_consultation,arabizi
+tachkhis 3am,demande_consultation,arabizi
+Price tag on these pills?,demande_prix,english
+Lotion coût ?,demande_prix,francais
+High temp.,description_symptome,english
+ما قديتش نسرط.,description_symptome,arabe
+taf7 jeldi,description_symptome,arabizi
+الفانيد شحال داير؟,demande_prix,arabe
+Is this reimbursable?,remboursement_mutuelle,english
+Puis-je avoir une crème contre les éruptions cutanées ?,demande_medicament,fr
+Besoin d'un neurologue.,demande_consultation,francais
+dossier cnops?,remboursement_mutuelle,arabizi
+طريقة شرب الكينة؟,demande_posologie,arabe
+Coût de la radio ?,demande_prix,francais
+ودني كتقطر.,description_symptome,arabe
+خاصني أنتيبيوتيك عافاك.,demande_medicament,darija_ar
+Quintes de toux.,description_symptome,francais
+Mutuelle claim process?,remboursement_mutuelle,english
+Patch replacement time?,demande_posologie,english
+7ala 7arija!,demande_urgence,arabizi
+مغص في الكرش.,description_symptome,arabe
+شرح ليا الدوزاج.,demande_posologie,arabe
+"Drop everything, medical emergency.",demande_urgence,english
+واش طبيب السنان مسالي غدا.,demande_consultation,arabe
+هل لديك ملينات؟,demande_medicament,ar
+Can you give me flu medicine?,demande_medicament,en
+Need my teeth checked.,demande_consultation,english
+Douleur lombaire.,description_symptome,francais
+Ointment application?,demande_posologie,english
+Gums are sore.,description_symptome,english
+"Coupure profonde, ça pisse le sang.",demande_urgence,francais
+بغيت شي مسكن للحريق.,demande_medicament,darija_ar
+Selles liquides.,description_symptome,francais
+Tarif échographie ?,demande_prix,francais
+"Dépêchez-vous, urgence !",demande_urgence,francais
+Rdv femme enceinte.,demande_consultation,francais
+l'irm ch7al kaydir?,demande_prix,arabizi
+Hospital room charge?,demande_prix,english
+had pomada ch7al dayra?,demande_prix,arabizi
+khssni aspegic 1000,demande_medicament,arabizi
+remboursement d cnss?,remboursement_mutuelle,arabizi
+كريم بشحال؟,demande_prix,arabe
+كاشي د لامو.,remboursement_mutuelle,arabe
+شحال من رشة د الرابوز؟,demande_posologie,arabe
+Do you sell first aid kits?,demande_medicament,en
+أحتاج شيئًا لدوار الحركة.,demande_medicament,ar
+واش مقبول في لاميتيال؟,remboursement_mutuelle,arabe
+Poison control emergency.,demande_urgence,english
+واش نقدر نشرب جوج دقة وحدة؟,demande_posologie,arabe
+واش عندكم أسبيرين؟,demande_medicament,darija_ar
+بشحال هادا؟,demande_prix,arabe
+choc 7asasiya!,demande_urgence,arabizi
+lila f la clinique bch7al?,demande_prix,arabizi
+Suspicion d'AVC !,demande_urgence,francais
+Je veux voir un pédiatre.,demande_consultation,francais
+gel kifax nsta3mlou?,demande_posologie,arabizi
+ch7al mn chouka?,demande_posologie,arabizi
+Réanimation urgence.,demande_urgence,francais
+كسيدة خايبة عتقو!,demande_urgence,arabe
+Ear infection pain.,description_symptome,english
+Température très haute.,description_symptome,francais
+Dose de pommade ?,demande_posologie,francais
+Ear is throbbing.,description_symptome,english
+Avez-vous des laxatifs ?,demande_medicament,fr
+كحبة ناشفة ما بغاتش تفوت.,description_symptome,arabe
+جاتني الدوخة.,description_symptome,arabe
+Choc anaphylactique !,demande_urgence,francais
+ch7al mn bekha?,demande_posologie,arabizi
+Do you have asthma inhalers?,demande_medicament,en
+خاصني دوا لضرسة.,demande_medicament,darija_ar
+ch7al radio?,demande_prix,arabizi
+tatabo3 l7aml,demande_consultation,arabizi
+Ringing in ears.,description_symptome,english
+I'm looking for a nasal spray.,demande_medicament,en
+ليلة في الكلينيك بشحال؟,demande_prix,arabe
+Need paramedics asap.,demande_urgence,english
+Ultrasound cost?,demande_prix,english
+جيبو الوقاية المدنية.,demande_urgence,arabe
+OBGYN scheduling.,demande_consultation,english
+I need antiviral medication.,demande_medicament,en
+Tamponnez ma feuille de soins.,remboursement_mutuelle,francais
+Dossier assurance santé ?,remboursement_mutuelle,francais
+عطيني شي سيرو ديال الكحبة.,demande_medicament,darija_ar
+مفاصلي كيحرقوني.,description_symptome,arabe
+jalta dimaghiya 15!,demande_urgence,arabizi
+Send an EMT right away.,demande_urgence,english
+How much is this?,demande_prix,english
+جاتو كريز د الصرع!,demande_urgence,arabe
+"Fast, call the medics!",demande_urgence,english
+Je serai remboursé ?,remboursement_mutuelle,francais
+هل تبيع الإيبوبروفين؟,demande_medicament,ar
+Feuille de soins CNSS ?,remboursement_mutuelle,francais
+حليب الرضاعة بشحال؟,demande_prix,arabe
+أبحث عن دواء للحساسية.,demande_medicament,ar
+A quelle fréquence ?,demande_posologie,francais
+dosage d sghar?,demande_posologie,arabizi
+الدوايات شحال طالعين؟,demande_prix,arabe
+اللصقة كيفاش تخدم؟,demande_posologie,arabe
+Ointment price?,demande_prix,english
+cachet d la mutuelle,remboursement_mutuelle,arabizi
+صدى الصوت بشحال؟,demande_prix,arabe
+Choking emergency!,demande_urgence,english
+Réserver dentiste.,demande_consultation,francais
+هل لديك كريم مطهر؟,demande_medicament,ar
+Migraine since yesterday.,description_symptome,english
+Knees are aching.,description_symptome,english
+Kids dosage for this?,demande_posologie,english
+sifto ambulance,demande_urgence,arabizi
+Kinésithérapie tarif ?,demande_prix,francais
+Lotion price?,demande_prix,english
+أبحث عن شراب سعال للأطفال.,demande_medicament,ar
+Heart palpitations.,description_symptome,english
+gelule kifax kaytchreb?,demande_posologie,arabizi
+Do you have slots for a neurologist?,demande_consultation,english
+Signature dossier mutuelle.,remboursement_mutuelle,francais
+Need something for menstrual cramps.,demande_medicament,en
+Quand changer le patch ?,demande_posologie,francais
+wach had dwa kaytrmboursa?,remboursement_mutuelle,arabizi
+bghit rdv m3a dentiste,demande_consultation,arabizi
+Éligible mutuelle ?,remboursement_mutuelle,francais
+les9a kifax tkhdem?,demande_posologie,arabizi
+Dosage for adults?,demande_posologie,english
+Acouphènes.,description_symptome,francais
+3yiit w l7mi mdegdeg,description_symptome,arabizi
+بغيت نتلاقى الجراح.,demande_consultation,arabe
+Company plan cover this?,remboursement_mutuelle,english
+redit lmakla,description_symptome,arabizi
+الدنيا كدور بيا.,description_symptome,arabe
+كنرد بزاف.,description_symptome,arabe
+ambulance 3afak rah urgence!,demande_urgence,arabizi
+Set up a surgery consult.,demande_consultation,english
+الردان شدني.,description_symptome,arabe
+خاصني دوا ديال الدوخة.,demande_medicament,darija_ar
+Lait bébé coût ?,demande_prix,francais
+Envoyez les secours !,demande_urgence,francais
+الشقيقة شاداني.,description_symptome,arabe
+Avez-vous des médicaments contre le rhume ?,demande_medicament,fr
+Consultation ophtalmo.,demande_consultation,francais
+Donnez-moi des pansements et de l'alcool.,demande_medicament,fr
+J'ai besoin d'un antiviral.,demande_medicament,fr
+snesoul kaywje3,description_symptome,arabizi
+اتعاب الطبيب؟,demande_prix,arabe
+هل لديك أي شيء للإمساك؟,demande_medicament,ar
+رنديفو مع الجراح.,demande_consultation,arabe
+هل لديك أي مسكنات للأطفال؟,demande_medicament,ar
+wach kayn bedadine?,demande_medicament,arabizi
+wach kayn rhumafed?,demande_medicament,arabizi
+at3ab tbib?,demande_prix,arabizi
+Démarche assurance maladie ?,remboursement_mutuelle,francais
+استشارة طبية عامة.,demande_consultation,arabe
+assurance d lkhedma kat3awed?,remboursement_mutuelle,arabizi
+Swallowing hurts.,description_symptome,english
+wach 3ndkom daflon?,demande_medicament,arabizi
+Tummy hurts a lot.,description_symptome,english
+"Emergency, please hurry!",demande_urgence,english
+Daily dose?,demande_posologie,english
+ظهري تضرع.,description_symptome,arabe
+كحبة عامرة.,description_symptome,arabe
+سكانير شحال؟,demande_prix,arabe
+Sachets per day?,demande_posologie,english
+J'ai besoin d'une pommade pour les brûlures.,demande_medicament,fr
+Comment donner ces gouttes ?,demande_posologie,francais
+ملف لاسيرونس د الخدمة؟,remboursement_mutuelle,arabe
+واش نقدر ناخد رنديفو عند طبيب القلب.,demande_consultation,arabe
+بغيت ماغنيزيوم.,demande_medicament,darija_ar
+بغيت ندوز عند طبيب.,demande_consultation,arabe
+هل يمكنني الحصول على أقراص للحلق؟,demande_medicament,ar
+Prix du sirop ?,demande_prix,francais
+Suppositoires mode d'emploi ?,demande_posologie,francais
+I need an appointment with the doctor today,demande_consultation,english
+Echo tarif ?,demande_prix,francais
+masarif jara7a?,demande_prix,arabizi
+Articulations douloureuses.,description_symptome,francais
+هل لديك بخاخات للربو؟,demande_medicament,ar
+أعطني بعض الضمادات والكحول.,demande_medicament,ar
+AMO valid here?,remboursement_mutuelle,english
+Cachet sur feuille CNSS.,remboursement_mutuelle,francais
+Inpatient fees?,demande_prix,english
+معيلقة كبيرة ولا صغيرة؟,demande_posologie,arabe
+طبيب الكلاوي.,demande_consultation,arabe
+How much for this cream?,demande_prix,english
+mri ch7al?,demande_prix,arabizi
+Policy coverage?,remboursement_mutuelle,english
+bghit pastilles d l7la9m,demande_medicament,arabizi
+Poudre à diluer comment ?,demande_posologie,francais
+Muscle and joint ache.,description_symptome,english
+Gushing blood from a cut.,demande_urgence,english
+Injection schedule?,demande_posologie,english
+Il s'étouffe !,demande_urgence,francais
+I'm looking for allergy medication.,demande_medicament,en
+Faites venir un médecin tout de suite.,demande_urgence,francais
+tel9ou kolchi urgence,demande_urgence,arabizi
+Mal au dos.,description_symptome,francais
+t7re9 bzaf fin nmchiw?,demande_urgence,arabizi
+ch7al mn mera?,demande_posologie,arabizi
+Eruption cutanée.,description_symptome,francais
+Prix prise de sang ?,demande_prix,francais
+taman d tlfaza?,demande_prix,arabizi
+Gel usage?,demande_posologie,english
+Book a session with the MD.,demande_consultation,english
+طبيب النبولة.,demande_consultation,arabe
+Private insurance claim?,remboursement_mutuelle,english
+J'ai besoin d'analgésiques.,demande_medicament,fr
+dem kharej bzaf mn jer7a,demande_urgence,arabizi
+Does mutuelle pay for this?,remboursement_mutuelle,english
+masarif sbitar?,demande_prix,arabizi
+AMO Tadamon accepted?,remboursement_mutuelle,english
+رنديفو اليوم عافاك.,demande_consultation,arabe
+cnops katrejje3 flous?,remboursement_mutuelle,arabizi
+la caisse d remboursement?,remboursement_mutuelle,arabizi
+Fébrile.,description_symptome,francais
+We need emergency services!,demande_urgence,english
+khssni dwa d soker,demande_medicament,arabizi
+الاسعاف عافاك راه حالة مستعجلة!,demande_urgence,arabe
+Dental pain.,description_symptome,english
+Throat is killing me.,description_symptome,english
+echo bch7al?,demande_prix,arabizi
+Capsule dosage?,demande_posologie,english
+I need antibiotics.,demande_medicament,en
+fia s'hal,description_symptome,arabizi
+Submit to CNOPS?,remboursement_mutuelle,english
+Need a general checkup.,demande_consultation,english
+Sonogram price?,demande_prix,english
+Puis-je avoir des pastilles pour la gorge ?,demande_medicament,fr
+جلطة، دغيا!,demande_urgence,arabe
+sirop bch7al?,demande_prix,arabizi
+fin sbitar d l9alb?,demande_urgence,arabizi
+7lib d les bebes bch7al?,demande_prix,arabizi
+Nausées fortes.,description_symptome,francais
+J'ai la diarrhée.,description_symptome,francais
+Bone doctor appointment.,demande_consultation,english
+الرميد دايز؟,remboursement_mutuelle,arabe
+3tini rhinathiol,demande_medicament,arabizi
+Can you give me something for diarrhea?,demande_medicament,en
+ch9i9a chadani,description_symptome,arabizi
+Analyses labo prix ?,demande_prix,francais
+I need a laxative.,demande_medicament,en
+wach n9der nchreb jouj d9a w7da?,demande_posologie,arabizi
+Rythme des injections ?,demande_posologie,francais
+Compléter formulaire mutuelle.,remboursement_mutuelle,francais
+Rdv urologue.,demande_consultation,francais
+Do you sell ibuprofen?,demande_medicament,en
+ta3widat d la caisse?,remboursement_mutuelle,arabizi
+Procédure RAMED ?,remboursement_mutuelle,francais
+Comment prendre ce médicament ?,demande_posologie,francais
+tasri7 d l'assurance?,remboursement_mutuelle,arabizi
+Medical card accepted?,remboursement_mutuelle,english
+Skin doctor booking.,demande_consultation,english
+wach kayn dwa d lklawi?,demande_medicament,arabizi
+J'ai besoin d'un médicament anti-nausée.,demande_medicament,fr
+حليب الدراري بشحال؟,demande_prix,arabe
+"Badly burned, need docs fast!",demande_urgence,english
+Bilan de la vue.,demande_consultation,francais
+me7tajin l is3af daba!,demande_urgence,arabizi
+"Souci urinaire, urologue.",demande_consultation,francais
+rdv lyoum 3afak,demande_consultation,arabizi
+ورقة المرض؟,remboursement_mutuelle,arabe
+Frais chirurgicaux ?,demande_prix,francais
+هل لديك أسبرين؟,demande_medicament,ar
+بغيت بومادا ديال البرودة.,demande_medicament,darija_ar
+أريد شراء باراسيتامول.,demande_medicament,ar
+7asasiya khayba ta7!,demande_urgence,arabizi
+أحتاج إلى دواء مضاد للغثيان.,demande_medicament,ar
+سكتة قلبية، زربو!,demande_urgence,arabe
+Je cherche un spray nasal.,demande_medicament,fr
+وريقات لا سينيسيس؟,remboursement_mutuelle,arabe
+ras kay7re9ni bzaf,description_symptome,arabizi
+Médicament remboursable ?,remboursement_mutuelle,francais
+A jeun ou pendant le repas ?,demande_posologie,francais
+كنوبس كترد الفلوس؟,remboursement_mutuelle,arabe
+ch7al mn m3il9a d sirop?,demande_posologie,arabizi
+khssni chi 9wilbat l sghar,demande_medicament,arabizi
+Sirop pour la toux prix ?,demande_prix,francais
+Piqûres fréquence ?,demande_posologie,francais
+Get a doctor here NOW.,demande_urgence,english
+kifax n9ter had l9otrat?,demande_posologie,arabizi
+Give me some bandages and alcohol.,demande_medicament,en
+Gencives enflées.,description_symptome,francais
+ch7al mn 9etra?,demande_posologie,arabizi
+قوليا الثمن.,demande_prix,arabe
+Lab test costs?,demande_prix,english
+Pommade application ?,demande_posologie,francais
+النعاس في السبيطار شحال كيتقام؟,demande_prix,arabe
+شحال غتقام التحليلة؟,demande_prix,arabe
+Dental cleaning price?,demande_prix,english
+khssni fervex,demande_medicament,arabizi
+Étourdissements.,description_symptome,francais
+Avez-vous des somnifères ?,demande_medicament,fr
+هل يمكنني الحصول على حبوب لألم المعدة؟,demande_medicament,ar
+عطيني شي حاجة للسهال.,demande_medicament,darija_ar
+ENT appointment needed.,demande_consultation,english
+Dosage adulte ?,demande_posologie,francais
+9iydni 3nd tbib,demande_consultation,arabizi
+شرب شي حاجة مسمومة!,demande_urgence,arabe
+Call an ambulance!,demande_urgence,english
+Tablet instructions?,demande_posologie,english
+Gel comment l'utiliser ?,demande_posologie,francais
+صيفطو امبيلانس.,demande_urgence,arabe
+Le dentiste peut me prendre demain ?,demande_consultation,francais
+me7rou9 bzaf 3awnouna!,demande_urgence,arabizi
+La sécu rembourse ?,remboursement_mutuelle,francais
+كيفاش ندفع لامو؟,remboursement_mutuelle,arabe
+فحص المسالك البولية.,demande_consultation,arabe
+tbe3 lia wer9at cnss,remboursement_mutuelle,arabizi
+التعويض ديال لا سينيسيس؟,remboursement_mutuelle,arabe
+ملف كنوبس؟,remboursement_mutuelle,arabe
+rdv m3a ljarrah,demande_consultation,arabizi
+khssni beta-dine,demande_medicament,arabizi
+tjerra7 ghare9 w dem ghadi,demande_urgence,arabizi
+khssni pomada d l7ri9,demande_medicament,arabizi
+Rdv gynéco urgent.,demande_consultation,francais
+"Samu, venez vite !",demande_urgence,francais
+Is the dentist free tomorrow?,demande_consultation,english
+sakta 9albiya zerbou!,demande_urgence,arabizi
+Urgence vitale absolue !,demande_urgence,francais
+الدونتيست شحال كياخد؟,demande_prix,arabe
+kerchi jarya,description_symptome,arabizi
+بغيت فيتامين سي.,demande_medicament,darija_ar
+Chest feels tight.,description_symptome,english
+Private insurance reimburse?,remboursement_mutuelle,english
+Consult fee?,demande_prix,english
+أحتاج إلى بعض المسكنات.,demande_medicament,ar
+موعد ديال القلب.,demande_consultation,arabe
+Mental health consult.,demande_consultation,english
+Pommade prix ?,demande_prix,francais
+لحمي كياكلني.,description_symptome,arabe
+cachet d l'amo,remboursement_mutuelle,arabizi
+tariqat chrib lkina?,demande_posologie,arabizi
+كيني بشحال؟,demande_prix,arabe
+tayb b skhana,description_symptome,arabizi
+Devis opération ?,demande_prix,francais
+Assurance privée remboursement ?,remboursement_mutuelle,francais
+خاصني شي حاجة لوجع لي غيغل.,demande_medicament,darija_ar
+Throwing up all morning.,description_symptome,english
+Do you take my insurance?,remboursement_mutuelle,english
+wach la mutuelle kat9blou?,remboursement_mutuelle,arabizi
+khorouj jari,description_symptome,arabizi
+Physio session fee?,demande_prix,english
+I need some vitamin C.,demande_medicament,en
+"Epileptic fit, send help.",demande_urgence,english
+3iytou l ambulance!,demande_urgence,arabizi
+Rencard dermato.,demande_consultation,francais
+طريقة الرميد؟,remboursement_mutuelle,arabe
+Price of the consultation?,demande_prix,english
+Comment être remboursé ?,remboursement_mutuelle,francais
+واش عندكم شي قويلبات للقبض؟,demande_medicament,darija_ar
+Can I take two at once?,demande_posologie,english
+Urgent medical help needed.,demande_urgence,english
+dentiste ch7al kayakhd?,demande_prix,arabizi
+حالة خطيرة!,demande_urgence,arabe
+Caisse remboursement ?,remboursement_mutuelle,francais
+عمر ليا ملف كنوبس.,remboursement_mutuelle,arabe
+Public insurance claim?,remboursement_mutuelle,english
+Check-up gynécologique.,demande_consultation,francais
+Sharp chest pain.,description_symptome,english
+Oreille qui lance.,description_symptome,francais
+psy darouri,demande_consultation,arabizi
+تجرح غارق والدم غادي.,demande_urgence,arabe
+Dentist fees?,demande_prix,english
+شحال من ساشي في النهار؟,demande_posologie,arabe
+3tini chi dwa kanden ras,demande_medicament,arabizi
+سخفت.,description_symptome,arabe
+طبيب نفساني.,demande_consultation,arabe
+شحال ندير د البومادا؟,demande_posologie,arabe
+Vendez-vous de l'ibuprofène ?,demande_medicament,fr
+wach l9a 3ndk dwa d tensio?,demande_medicament,arabizi
+rah ghayb 3la lwa3y hna,demande_urgence,arabizi
+How many pills a day?,demande_posologie,english
+أحتاج إلى مكملات الحديد.,demande_medicament,ar
+Surgical expenses?,demande_prix,english
+Otite douloureuse.,description_symptome,francais
+دقة في القلب.,description_symptome,arabe
+kifax nreje3 floussi?,remboursement_mutuelle,arabizi
+ER location for heart issues?,demande_urgence,english
+كونسيلطاسيون بشحال؟,demande_prix,arabe
+هل لديك حبوب لضغط الدم؟,demande_medicament,ar
+wach 3ndk dwa d l7asasiya?,demande_medicament,arabizi
+شحال من خطرة؟,demande_posologie,arabe
+taman d lvisita?,demande_prix,arabizi
+ch7al mn khatra?,demande_posologie,arabizi
+Infant milk cost?,demande_prix,english
+شحال من شوكة؟,demande_posologie,arabe
+Honoraires dentiste ?,demande_prix,francais
+Pédiatre pour mon fils.,demande_consultation,francais
+شحال الماكسيموم في النهار؟,demande_posologie,arabe
+Je veux acheter une pommade musculaire.,demande_medicament,fr
+أحتاج إلى أقراص استحلاب للسعال.,demande_medicament,ar
+"He passed out, ambulance now!",demande_urgence,english
+Frais d'hospitalisation ?,demande_prix,francais
+I need some iron supplements.,demande_medicament,en
+Policy claim?,remboursement_mutuelle,english
+Operation cost?,demande_prix,english
+How to schedule a dermatologist visit?,demande_consultation,english
+تصاور الراديو بشحال؟,demande_prix,arabe
+صدمة حساسية!,demande_urgence,arabe
+"Can't breathe, asthma emergency!",demande_urgence,english
+Consulter un ORL.,demande_consultation,francais
+khssni fer 3afak,demande_medicament,arabizi
+Dossier assurance pro ?,remboursement_mutuelle,francais
+w9tach nbedel les9a?,demande_posologie,arabizi
+أبحث عن دواء للسكري.,demande_medicament,ar
+Do you have cold medicine?,demande_medicament,en
+bghit vitamina c,demande_medicament,arabizi
+ملف امو تضامن؟,remboursement_mutuelle,arabe
+"Crise d'asthme, il ne respire plus !",demande_urgence,francais
+Prix détartrage ?,demande_prix,francais
+أبحث عن بخاخ للأنف.,demande_medicament,ar
+Centre des grands brûlés ?,demande_urgence,francais
+Prescription instructions.,demande_posologie,english
+Meds cost?,demande_prix,english
+jalta deghya!,demande_urgence,arabizi
+شقة في الراس، السبيطار.,demande_urgence,arabe
+ملف التأمين الخاص؟,remboursement_mutuelle,arabe
+ليباري شحال من مرة؟,demande_posologie,arabe
+"Stroke signs, 911!",demande_urgence,english
+صدري مزير عليا.,description_symptome,arabe
+Avez-vous des antidouleurs pour enfants ?,demande_medicament,fr
+Need something for a headache.,demande_medicament,en
+Radiographie tarif ?,demande_prix,francais
+bghit ntla9a charrah,demande_consultation,arabizi
+Morning or night?,demande_posologie,english
+Tête qui tourne.,description_symptome,francais
+قرا ليا الورقة د الدوا.,demande_posologie,arabe
+Combien de fois par jour ?,demande_posologie,francais
+ch7al mn 7ba nchreb f nhar?,demande_posologie,arabizi
+nzif mejhed diouh sbitar!,demande_urgence,arabizi
+Urgence convulsion !,demande_urgence,francais
+I need to consult a gyne.,demande_consultation,english
+تعويضات الصندوق د الصحة؟,remboursement_mutuelle,arabe
+I want to meet the surgeon.,demande_consultation,english
+واش كاين دوا ديال البرد؟,demande_medicament,darija_ar
+كاين شي موعد مع طبيب السنان.,demande_consultation,arabe
+Avez-vous de la crème antiseptique ?,demande_medicament,fr
+kine bch7al?,demande_prix,arabizi
+Notice d'utilisation ?,demande_posologie,francais
+I need an anti-nausea medicine.,demande_medicament,en
+هل يمكنك إعطائي شيئًا لحرقة المعدة؟,demande_medicament,ar
+تتبع الحمل.,demande_consultation,arabe
+I need some painkillers.,demande_medicament,en
+tbib d ras,demande_consultation,arabizi
+Ortho visit.,demande_consultation,english
+Provider coverage details?,remboursement_mutuelle,english
+Vomited twice.,description_symptome,english
+أحتاج شيئًا لآلام الدورة الشهرية.,demande_medicament,ar
+dwa lk7ba bch7al?,demande_prix,arabizi
+di9a chedatou kaymout!,demande_urgence,arabizi
+عطيني فنيد ديال الحلاقم.,demande_medicament,darija_ar
+wach hadchi dakhil f l'assurance?,remboursement_mutuelle,arabizi
+Raideur articulaire.,description_symptome,francais
+What's the dose?,demande_posologie,english
+قويلبات كيفاش ندير ليهم؟,demande_posologie,arabe
+كيفاش ندهن هاد الكريمة؟,demande_posologie,arabe
+I want to buy some muscle rub.,demande_medicament,en
+rdv bloc opératoire.,demande_consultation,francais
+حصص الترويض شحال؟,demande_prix,arabe
+tsawr d radio bch7al?,demande_prix,arabizi
+الكونطرا كتعوض هادشي؟,remboursement_mutuelle,arabe
+3la ri9 wla chab3an?,demande_posologie,arabizi
+واش عندكم دوا ديال الطانسيو؟,demande_medicament,darija_ar
+مركز التسمم، عاجل.,demande_urgence,arabe
+3mer lia wra9 l'assurance,remboursement_mutuelle,arabizi
+كرشي جاريا.,description_symptome,arabe
+واش عندكم إيبوبروفين؟,demande_medicament,darija_ar
+Heart doctor appointment.,demande_consultation,english
+Drop dosage?,demande_posologie,english
+"Choc à la tête, hôpital.",demande_urgence,francais
+Prendre rdv cardio.,demande_consultation,francais
+7lib d drari bch7al?,demande_prix,arabizi
+lta mnfoukha,description_symptome,arabizi
+Card reimbursement?,remboursement_mutuelle,english
+Radiography fees?,demande_prix,english
+tbib lmafasil,demande_consultation,arabizi
+Medicine for a toothache.,demande_medicament,en
+تكلفة العملية؟,demande_prix,arabe
+Health fund pay for this?,remboursement_mutuelle,english
+"Fracture ouverte, ambulance !",demande_urgence,francais
+Problème intestinal.,description_symptome,francais
+Coût antibiotiques ?,demande_prix,francais
+tkalif d l3amaliya?,demande_prix,arabizi
+n3as f sbitar ch7al kayt9am?,demande_prix,arabizi
+حريق المعدة.,description_symptome,arabe
+snan kay7re9ou,description_symptome,arabizi
+chrb chi 7aja mesmouma!,demande_urgence,arabizi
+ندوز عند طبيب عام.,demande_consultation,arabe
+IRM coût ?,demande_prix,francais
+"Bleeding heavily, need ER!",demande_urgence,english
+Migraine atroce.,description_symptome,francais
+Spoonfuls per dose?,demande_posologie,english
+l7mi kayaklni,description_symptome,arabizi
+CNOPS coverage?,remboursement_mutuelle,english
+Can I bring my kid to the pediatrician later?,demande_consultation,english
+خصني نشوف جراح.,demande_consultation,arabe
+Someone is choking!,demande_urgence,english
+Corporate insurance claim?,remboursement_mutuelle,english
+عيطو للامبيلانس!,demande_urgence,arabe
+بغيت طبيب الحلاقم.,demande_consultation,arabe
+bghit chi 9trat d l3inin,demande_medicament,arabizi
+formulaire d l'assurance?,remboursement_mutuelle,arabizi
+عطيني بومادا ديال الحبوب.,demande_medicament,darija_ar
+l'echo ch7al?,demande_prix,arabizi
+Difficulté à avaler.,description_symptome,francais
+m3il9a kbira wla sghira?,demande_posologie,arabizi
+Cardio la semaine pro.,demande_consultation,francais
+3tini spasfon 3afak,demande_medicament,arabizi
+Do you have aspirin?,demande_medicament,en
+mutuelle katrejje3 3lih?,remboursement_mutuelle,arabizi
+Burning up with fever.,description_symptome,english
+Urologist free slots.,demande_consultation,english
+Prendre rdv pour bébé.,demande_consultation,francais
+libari ch7al mn mera?,demande_posologie,arabizi
+Dossier CNOPS ?,remboursement_mutuelle,francais
+3t9ou rou7!,demande_urgence,arabizi
+Dites-moi le prix.,demande_prix,francais
+Itchy skin breakout.,description_symptome,english
+Neurology consult.,demande_consultation,english
+كيفاش ندهن البومادا؟,demande_posologie,arabe
+رديت الماكلة.,description_symptome,arabe
+tbib l2anf w l7anjara,demande_consultation,arabizi
+Echographie pelvienne prix ?,demande_prix,francais
+Je vomis tout.,description_symptome,francais
+هل يمكنني الحصول على شراب للسعال؟,demande_medicament,ar
+wri9at cnss?,remboursement_mutuelle,arabizi
+fin kayn sbitar kbir?,demande_urgence,arabizi
+كيفاش ندفع لاميتيال؟,remboursement_mutuelle,arabe
+Derma appt.,demande_consultation,english
+الجيل كيفاش نستعملو؟,demande_posologie,arabe
+kifax ndfe3 l'amo?,remboursement_mutuelle,arabizi
+Health fund reimbursement?,remboursement_mutuelle,english
+goulia taman,demande_prix,arabizi
+3tini augmentin,demande_medicament,arabizi
+9wilbat kifax ndir lihom?,demande_posologie,arabizi
+Courbatures partout.,description_symptome,francais
+J'ai besoin de suppléments de fer.,demande_medicament,fr
+wer9at lmarad?,remboursement_mutuelle,arabizi
+wach 3ndkom sérum phy?,demande_medicament,arabizi
+dossier l'assurance prive?,remboursement_mutuelle,arabizi
+عطيني دوا ديال الرواح.,demande_medicament,darija_ar
+حالة مستعجلة بزاف.,demande_urgence,arabe
+Shot frequency?,demande_posologie,english
+كارط د الدوا مقبولة؟,remboursement_mutuelle,arabe
+bch7al l3amaliya?,demande_prix,arabizi
+k7ba 9jatni,description_symptome,arabizi
+Powder sachet mix instructions?,demande_posologie,english
+Can I get a cough syrup?,demande_medicament,en
+عمر ليا وراق لاسيرونس.,remboursement_mutuelle,arabe
+kifax ndfe3 la mutuelle?,remboursement_mutuelle,arabizi
+I want some antihistamines.,demande_medicament,en
+Il me faut quelque chose pour le mal de tête.,demande_medicament,fr
+I need something for motion sickness.,demande_medicament,en
+tafasil d remboursement?,remboursement_mutuelle,arabizi
+How many times a day?,demande_posologie,english
+tbe3 lia wer9at dwa 3afak,remboursement_mutuelle,arabizi
+consultation bch7al?,demande_prix,arabizi
+طبيبة النسا عافاك.,demande_consultation,arabe
+Nightly rate for hospital stay?,demande_prix,english
+Stomach cramps.,description_symptome,english
+contrat kat3awed hadchi?,remboursement_mutuelle,arabizi
+Je veux acheter du paracétamol.,demande_medicament,fr
+Scaling and polishing price?,demande_prix,english
+La mutuelle prend en charge ?,remboursement_mutuelle,francais
+Comprimés instructions ?,demande_posologie,francais
+kherj fia 7boub 7mer,description_symptome,arabizi
+الرنين المغناطيسي شحال؟,demande_prix,arabe
+بالزربة، عيطو للاسعاف!,demande_urgence,arabe
+rdan chedni,description_symptome,arabizi
+Puis-je avoir des pilules pour les maux d'estomac ?,demande_medicament,fr
+واش كيرجعو عليه الفلوس؟,remboursement_mutuelle,arabe
+Formula milk price?,demande_prix,english
+"Bad allergic reaction, help!",demande_urgence,english
+Maximum pills per day?,demande_posologie,english
+Maximum par jour ?,demande_posologie,francais
+dwayat ch7al tal3in?,demande_prix,arabizi
+Coverage check?,remboursement_mutuelle,english
+bghit dwa d rwye7,demande_medicament,arabizi
+شحال العبار؟,demande_posologie,arabe
+istichara tibiya 3ama,demande_consultation,arabizi
+Feeling dizzy.,description_symptome,english
+Looking for a psychiatrist appointment.,demande_consultation,english
+ch7al mn fanida?,demande_posologie,arabizi
+Puffs per dose?,demande_posologie,english
+Psych appointment booking.,demande_consultation,english
+Tampon AMO.,remboursement_mutuelle,francais
+شحال من مرة نشربو؟,demande_posologie,arabe
+Dispo chez le dentiste ?,demande_consultation,francais
+Intoxication alimentaire sévère !,demande_urgence,francais
+واش عندكم شي حاجة للكرش القاصحة؟,demande_medicament,darija_ar
+tkhne9 zerbou!,demande_urgence,arabizi
+بغيت دوا ديال المصران.,demande_medicament,darija_ar
+jibou tbib b zerba,demande_urgence,arabizi
+حليب د لي بيبي بشحال؟,demande_prix,arabe
+Prix séance kiné ?,demande_prix,francais
+kifax nsta3ml had dwa?,demande_posologie,arabizi
+Orthopédiste dispo ?,demande_consultation,francais
+Read the dosage for me.,demande_posologie,english
+Rage de dents.,description_symptome,francais
+جرعة البومادا شحال؟,demande_posologie,arabe
+bghit t9tira d lnef,demande_medicament,arabizi
+3mer lia dossier cnops,remboursement_mutuelle,arabizi
+طاح سخفان، الاسعاف!,demande_urgence,arabe
+bch7al hada?,demande_prix,arabizi
+Douleur thoracique.,description_symptome,francais
+tariqat ramed?,remboursement_mutuelle,arabizi
+Frequency of medication?,demande_posologie,english
+Expliquez-moi le dosage.,demande_posologie,francais
+bghit tbib d jeld,demande_consultation,arabizi
+tbib l9alb simana jaya,demande_consultation,arabizi
+طريقة الاستعمال؟,demande_posologie,arabe
+Grosse fièvre.,description_symptome,francais
+AMO refund?,remboursement_mutuelle,english
+بومادا شحال ثمنها؟,demande_prix,arabe
+How to use this medicine?,demande_posologie,english
+السنسول كيوجع.,description_symptome,arabe
+kanred bzaf,description_symptome,arabizi
+Mutuelle form stamp?,remboursement_mutuelle,english
+Je veux du magnésium.,demande_medicament,fr
+Consultation généraliste.,demande_consultation,francais
+Rendez-vous médecin de famille.,demande_consultation,francais
+wdni kat9ter,description_symptome,arabizi
+Dose journalière ?,demande_posologie,francais
+Echography charge?,demande_prix,english
+Fill out my insurance form?,remboursement_mutuelle,english
+J'ai besoin d'antibiotiques.,demande_medicament,fr
+Lightheadedness.,description_symptome,english
+7ala mousta3jala bzaf,demande_urgence,arabizi
+Posologie gélules ?,demande_posologie,francais
+أحتاج دواء لألم الأسنان.,demande_medicament,ar
+Lower back agony.,description_symptome,english
+وقتاش نبدل اللصقة؟,demande_posologie,arabe
+Can you book a dentist for me?,demande_consultation,english
+Tell me the price.,demande_prix,english
+صندوق التعويضات؟,remboursement_mutuelle,arabe
+ch7al ndir d pomada?,demande_posologie,arabizi
+bghit pomada d sbibtar,demande_medicament,arabizi
+Formulaire mutuelle ?,remboursement_mutuelle,francais
+شحال من بخة؟,demande_posologie,arabe
+de9a f l9alb,description_symptome,arabizi
+Centre antipoison !,demande_urgence,francais
+الدوزاج د الكبار؟,demande_posologie,arabe
+واش غيرجعو ليا الفلوس؟,remboursement_mutuelle,arabe
+ch7al mn gelule?,demande_posologie,arabizi
+سيرو الكحبة شحال؟,demande_prix,arabe
+شحال من معيلقة د السيرو؟,demande_posologie,arabe
+wach ghirj3ou lia floussi?,remboursement_mutuelle,arabizi
+bghit amoxil 500,demande_medicament,arabizi
+Il me faut un médicament pour le mal de dents.,demande_medicament,fr
+على الريق ولا شبعان؟,demande_posologie,arabe
+l'antibiotique bch7al?,demande_prix,arabizi
+الديقة شداتو، كيموت!,demande_urgence,arabe
+لاسيرونس د الخدمة كتعوض؟,remboursement_mutuelle,arabe
+محتاجين الاسعاف دابا!,demande_urgence,arabe
+عبار العينين.,demande_consultation,arabe
+khssni controle 3nd genyco,demande_consultation,arabizi
+طبيب نفساني ضروري.,demande_consultation,arabe
+خروج جاري.,description_symptome,arabe
+rasi ghaytferge3,description_symptome,arabizi
+Vertiges.,description_symptome,francais
+Price for the syrup?,demande_prix,english
+3tini fasma w lcool,demande_medicament,arabizi
+مستعجلات د الجرح؟,demande_urgence,arabe
+راسي غيتفركع.,description_symptome,arabe
+Je cherche des médicaments pour le diabète.,demande_medicament,fr
+Je cherche des probiotiques.,demande_medicament,fr
+weldi mrid khssou tbib,demande_consultation,arabizi
+Health insurance info?,remboursement_mutuelle,english
+Avant ou après manger ?,demande_posologie,francais
+هل يمكنك إعطائي شيئًا للإسهال؟,demande_medicament,ar
+أحتاج إلى دواء مضاد للفيروسات.,demande_medicament,ar
+Posologie enfant ?,demande_posologie,francais
+أبحث عن دواء للحساسية.,demande_medicament,ar
+wach kayn zinat?,demande_medicament,arabizi
+9bel wla moura lmakla?,demande_posologie,arabizi
+شحال من فانيدة؟,demande_posologie,arabe
+ليكو شحال؟,demande_prix,arabe
+l7la9m mnfoukhin,description_symptome,arabizi
+ودني كتعطي الصداع.,description_symptome,arabe
+لاسيرونس بريفي كترد الفلوس؟,remboursement_mutuelle,arabe
+What's the bill for this med?,demande_prix,english
+بغيت سيرو ديال الدراري الصغار.,demande_medicament,darija_ar
+Quelle dose ?,demande_posologie,francais
+Palpitations.,description_symptome,francais
+df3 dossier mutuelle?,remboursement_mutuelle,arabizi
+dosage d lkbaar?,demande_posologie,arabizi
+bghit doliprane 1000,demande_medicament,arabizi
+Puis-je avoir un sirop contre la toux ?,demande_medicament,fr
+AMO paper stamp?,remboursement_mutuelle,english
+Suppository instructions?,demande_posologie,english
+k7ba 3amra,description_symptome,arabizi
+Urology checkup.,demande_consultation,english
+bghit ndwz 3nd tbib 3am,demande_consultation,arabizi
+The runs.,description_symptome,english
+Combien de comprimés par jour ?,demande_posologie,francais
+Santé mentale rdv.,demande_consultation,francais
+Patch utilisation ?,demande_posologie,francais
+Pastilles par jour ?,demande_posologie,francais
+بشحال العملية؟,demande_prix,arabe
+jatni doukha,description_symptome,arabizi
+كيفاش نستعمل هاد الدوا؟,demande_posologie,arabe
+ولدي مريض خصو طبيب.,demande_consultation,arabe
+"Suspected stroke, hurry!",demande_urgence,english
+Doc appt today,demande_consultation,english
+dossier amo tadamon?,remboursement_mutuelle,arabizi
+Maux de ventre.,description_symptome,francais
+Dosage gouttes ?,demande_posologie,francais
+Tadamon reimbursement?,remboursement_mutuelle,english
+عطيني فاصمة ولالكول.,demande_medicament,darija_ar
+Having diarrhea.,description_symptome,english
+Je cherche des médicaments contre les allergies.,demande_medicament,fr
+3tini chi 7aja l s'hal,demande_medicament,arabizi
+أريد بعض مضادات الهيستامين.,demande_medicament,ar
+Tarif consultation ?,demande_prix,francais
+خرج فيا حبوب حمر.,description_symptome,arabe
+"Crise cardiaque, vite !",demande_urgence,francais
+sedri mziyer 3liya,description_symptome,arabizi
+Vous prenez la mutuelle ?,remboursement_mutuelle,francais
+Avez-vous des pilules pour la tension ?,demande_medicament,fr
+Visite chez le cardiologue.,demande_consultation,francais
+dehri kay3tini l7ri9,description_symptome,arabizi
+Insurance doc signature?,remboursement_mutuelle,english
+Cap dosage?,demande_posologie,english
+طايب بالسخانة.,description_symptome,arabe
+Lire l'ordonnance.,demande_posologie,francais
+طبع ليا ورقة لا سينيسيس.,remboursement_mutuelle,arabe
+bghit nsawb snani,demande_consultation,arabizi
+محروق بزاف عاونونا!,demande_urgence,arabe
+ch7al mn kina d lmsan?,demande_posologie,arabizi
+tderb l ras 3t9ou!,demande_urgence,arabizi
+3tini magnesium,demande_medicament,arabizi
+Will I get refunded for this med?,remboursement_mutuelle,english
+Ophthalmologist needed.,demande_consultation,english
+Il me faut quelque chose pour les douleurs menstruelles.,demande_medicament,fr
+بغيت طبيب الجلد.,demande_consultation,arabe
+kifax ndhen pomada?,demande_posologie,arabizi
+Cost of baby formula?,demande_prix,english
+I'm looking for diabetes medication.,demande_medicament,en
+راه غايب عن الوعي هنا.,demande_urgence,arabe
+خاصني دوا ديال الفيروس.,demande_medicament,darija_ar
+Coughing fits.,description_symptome,english
+GP consultation schedule.,demande_consultation,english
+Plâtre urgence hôpital.,demande_urgence,francais
+لانتيبيوتيك بشحال؟,demande_prix,arabe
+Application du gel ?,demande_posologie,francais
+Patch usage?,demande_posologie,english
+بغيت فنيد ديال الكحبة.,demande_medicament,darija_ar
+Eye checkup booking.,demande_consultation,english
+الصباح ولا بالليل؟,demande_posologie,arabe
+kifax ndhen had la creme?,demande_posologie,arabizi
+Il me faut des gouttes pour les yeux.,demande_medicament,fr
+اقرب سبيطار د الكسايد؟,demande_urgence,arabe
+kifax ndir 9wilbat?,demande_posologie,arabizi
+كيفاش نرجع فلوسي؟,remboursement_mutuelle,arabe
+bghit sirop d lk7ba,demande_medicament,arabizi
+Provider claim form?,remboursement_mutuelle,english
+khssni nchouf charrah,demande_consultation,arabizi
+تصريح التأمين؟,remboursement_mutuelle,arabe
+ندوز على عينيا.,demande_consultation,arabe
+scanner ch7al?,demande_prix,arabizi
+Pression dans la poitrine.,description_symptome,francais
+كنقلب على رشاشة ديال النيف.,demande_medicament,darija_ar
+طفح جلدي.,description_symptome,arabe
+Il me faut un rdv médical.,demande_consultation,francais
+Surgeon availability.,demande_consultation,english
+Vérifier prise en charge ?,remboursement_mutuelle,francais
+skheft,description_symptome,arabizi
+"Problème d'os, orthopédiste.",demande_consultation,francais
+ta7 skhfan l is3af!,demande_urgence,arabizi
+Sachets quotidiens ?,demande_posologie,francais
+Do you have any painkillers for kids?,demande_medicament,en
+Prix lait infantile ?,demande_prix,francais
+Do you have anything for a sore throat?,demande_medicament,en
+Inhaler puffs frequency?,demande_posologie,english
+Avez-vous quelque chose contre la constipation ?,demande_medicament,fr
+che9a f ras sbitar,demande_urgence,arabizi
+X-ray fee?,demande_prix,english
+Cas très critique !,demande_urgence,francais
+Gorge en feu.,description_symptome,francais
+Kinesitherapy cost?,demande_prix,english
+mghas f lkerch,description_symptome,arabizi
+azma tanafousiya ta7,demande_urgence,arabizi
+jibou lwi9aya lmadaniya,demande_urgence,arabizi
+بغيت تقطيرة ديال العينين.,demande_medicament,darija_ar
+ch7al l3bar,demande_posologie,arabizi
