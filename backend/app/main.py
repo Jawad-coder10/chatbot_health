@@ -2,6 +2,9 @@
 from fastapi import FastAPI
 from pydantic import BaseModel, Field
 
+from .schemas import TextRequest, PredictionResponse
+from . import pipeline
+
 
 class RootResponse(BaseModel):
     message: str = Field(..., example="Chatbot Health backend is running")
@@ -22,3 +25,10 @@ def read_root():
 @app.get("/health", response_model=HealthResponse, summary="Health Check")
 def health_check():
     return {"status": "ok"}
+
+
+@app.post("/predict", response_model=PredictionResponse, summary="Predict intent and extract entities")
+def predict_route(req: TextRequest):
+    """Accepts a text payload and returns predicted intent+entities."""
+    result = pipeline.predict(req.text)
+    return result
