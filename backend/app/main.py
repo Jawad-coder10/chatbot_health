@@ -15,6 +15,8 @@ class HealthResponse(BaseModel):
 
 
 app = FastAPI(title="Chatbot Health API", version="0.1.0")
+from .routers.entities import router as entities_router
+app.include_router(entities_router, prefix="/api")
 
 
 @app.get("/", response_model=RootResponse, summary="Read Root")
