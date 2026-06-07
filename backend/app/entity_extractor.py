@@ -92,11 +92,11 @@ def extract_specialite(text):
 	return fuzzy_match(text, specialites)
 
 def extract_quantity(text):
-	pattern = re.search(
-		r'\b(\d+)\s*(comprim[ée]s?|boite|sachet|mg|ml|boîte|gelule|ampoule)\b',
-		text or "", re.IGNORECASE
-	)
-	return pattern.group(0) if pattern else None
+    pattern = re.search(
+        r'\b(\d+)\s*(comprim[ée]s?|boites?|sachets?|mg|ml|boîtes?|gelules?|ampoules?)\b',
+        text or "", re.IGNORECASE
+    )
+    return pattern.group(0) if pattern else None
 
 def extract_frequency(text):
 	pattern = re.search(
