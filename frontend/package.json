@@ -12,6 +12,7 @@
     "@radix-ui/react-toggle": "^1.1.11",
     "@radix-ui/react-toggle-group": "^1.1.12",
     "@tanstack/react-table": "^8.21.3",
+    "@vercel/analytics": "^2.0.1",
     "axios": "^1.17.0",
     "carousel": "^0.0.3",
     "chart": "^0.1.2",
