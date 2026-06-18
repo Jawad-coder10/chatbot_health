@@ -9,7 +9,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'SalamaBot - Votre assistant santé intelligent',
   description: 'SalamaBot est votre assistant santé intelligent. Posez vos questions sur les symptômes, médicaments et trouvez des pharmacies proches de vous.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
