@@ -22,11 +22,16 @@ services:
     volumes:
       - ./frontend:/app
       - /app/node_modules
+      - /app/.next
     ports:
       - "3000:3000"
     environment:
       - NEXT_PUBLIC_API_URL=http://backend:8000
       - WATCHPACK_POLLING=true
+      - WATCHPACK_POLLING_INTERVAL=300   # ← AJOUTER
+      - CHOKIDAR_USEPOLLING=true
+      - CHOKIDAR_INTERVAL=300            # ← AJOUTER
+      - NODE_ENV=development             # ← AJOUTER
     depends_on:
       - backend
     restart: unless-stopped
