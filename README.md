@@ -2,6 +2,7 @@
 
 Auteurs : Djawadi Saindou mblezi · Haitam Fetouhi  
 GitHub : [github.com/HaitamF/chatbot_health] (https://github.com/HaitamF/chatbot_health)
+https://github.com/Jawad-coder10/chatbot_health
 
 ## problematique :
 Les chatbots médicaux existants ne supportent pas le Darija marocain — langue informelle, non standardisée et mélangée entre arabe, français et Arabizi — créant une barrière d'accès à l'information médicale pour la population marocaine.
@@ -78,7 +79,7 @@ text, intent, language
 - **API :** FastAPI
 - **Langage :** Python 3.10+
 
----
+
 
 ## Structure du projet
 
@@ -180,7 +181,7 @@ cd backend
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 
-----------
+
 
 ## Endpoints et resultats 
 json :
@@ -202,8 +203,6 @@ json :
   }
 }
 
-
-ajoute screenshot avec 3 a 4 exemple et tourner sur le taux de confiance et les resultats
  ![alt text](question.png)
 ![alt text](reponse.png)
 
