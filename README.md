@@ -1,95 +1,211 @@
-Arabic/Darija Patient Assistance Chatbot — Pipeline Documentation
-Overview
-This system accepts informal multilingual patient messages in Darija, Arabic, and French, and returns structured information about their medication-related requests.
-The pipeline has two distinct phases: training and runtime.
+# 🏥 HDHealth  Chatbot Patient Assistance Darija
 
-Phase 1 — Training Phase
-Executed once by the team to build the classifier. Not part of live system.
-Step 1 — Data Preparation
-Datasets used:
+Auteurs : Djawadi Saindou mblezi · Haitam Fetouhi  
+GitHub : [github.com/HaitamF/chatbot_health] (https://github.com/HaitamF/chatbot_health)
 
-MedQA-MA — 114,000 Darija medical question-answer pairs labeled by medical specialty. Primary training source for medical intent and entity understanding.
-DODa — 150,000 Darija entries covering Latin and Arabic script. Used for Arabizi normalization and vocabulary reference.
+## problematique :
+Les chatbots médicaux existants ne supportent pas le Darija marocain — langue informelle, non standardisée et mélangée entre arabe, français et Arabizi — créant une barrière d'accès à l'information médicale pour la population marocaine.
 
-Goal: Build a clean, labeled dataset of patient messages mapped to intents.
-Intent categories to define:
-medication_request     → "3tini dwa dyal rasi"
-symptom_description    → "kbdti katdwini"
-quantity_request       → "3tini juj dyal doliprane"
-information_request    → "chno kaydawi doliprane"
+## Solution :
 
-Step 2 — Preprocessing
-Goal: Clean and normalize raw text before mBERT sees it.
-Operations:
-1. Arabizi normalization using DODa
-   3 → ع  |  7 → ح  |  9 → ق
+Un assistant intelligent capable de comprendre les demandes médicales des patients marocains dans leur langue naturelle, d'identifier leur besoin et d'extraire les informations clés pour les transmettre sous forme structurée via une API REST.
 
-2. Remove noise
-   punctuation, extra spaces, special characters
 
-3. Normalize Arabic text
-   unify different spellings of same word
+## Pipeline:
 
-4. Lowercase Latin text
+Dataset Darija (1049 phrases)
+        ↓
+Fine-tuning XLM-RoBERTa
+        ↓
+Dataset multilingue ( 1219 phrases / AR / FR / EN)
+        ↓
+Continual Fine-tuning (même modèle)
+        ↓
+Modèle final — toutes langues
+        ↓
+Entity extraction (fuzzy + regex)
+        ↓
+JSON → FastAPI
 
-Step 3 — mBERT Vectorization
-Model: multilingual BERT (mBERT) from Hugging Face
-Goal: Convert clean text into mathematical representation of meaning.
-Why mBERT:
+## 7 Intents supportés
 
-Trained on 104 languages including Arabic and French
-Handles mixed language input natively
-No translation needed — understands multilingual input as one
-Open source, runs locally, no API required
+| Intent | Exemple |
+--------------------------------------------
+| `demande_medicament` | "bghit doliprane" |
+| `demande_posologie` | "ch7al nakhod?" |
+| `demande_prix` | "ch7al had dwa?" |
+| `description_symptome` | "3andi s5ana" |
+| `demande_consultation` | "bghit nchuf tbib" |
+| `demande_urgence` | "3andi alam qwi" |
+| `remboursement_mutuelle` | "wach  3ndkum rma ?" |
 
-Output: Vector of 768 numbers per input capturing semantic meaning
+## datasets 
 
-Step 4 — Classifier Training
-Model: Logistic Regression trained on mBERT vectors
-Goal: Learn to predict intent from meaning vectors.
-Input: mBERT vectors + intent labels from MedQA-MA
-Output: Trained classifier saved to file
+Dataset 1 — Darija (intent_final.csv)
 
-Step 5 — Entity Extractor Training
-Goal: Extract specific information from the request.
-Entities to extract:
-medication_name  → "doliprane", "amoxicilline"
-quantity         → "juj", "wahda", "2"
-symptom          → "rasi", "kbdti", "sedri"
-Method: Rule-based patterns + MedQA-MA medical vocabulary
+1051 lignes · 7 intents · Arabizi + Arabe script
+Structure, contenu et annotations créés manuellement
+Équilibré : ~150 phrases par intent
 
-Phase 2 — Runtime Pipeline
-Live system. Receives user input and returns structured output.
-User message (any language, any script)
-↓
-[PREPROCESSING]
-Arabizi normalization + noise removal + text cleaning
-↓
-[mBERT]
-Clean text → 768-dimensional meaning vector
-↓
-[CLASSIFIER]
-Vector → Intent label
-↓
-[ENTITY EXTRACTOR]
-Raw text → medication name, quantity, symptom
-↓
-[STRUCTURED OUTPUT]
-JSON response to FastAPI
-Output example:
-json{
+Dataset 2 — Multilingue (multilingual_intent.csv)
+
+1219 lignes · 7 intents · Arabe standard + Français + Anglais
+Structure et contenu de base créés manuellement
+ 
+
+Les deux datasets ont la même structure :
+text, intent, language
+"bghit doliprane", demande_medicament, arabizi
+"je voudrais du paracétamol", demande_medicament, french
+"أريد دواء للصداع", demande_medicament, arabic
+
+      Variété et volume augmentés via génération LLM(gemini pro // claude )
+
+
+## Performances
+
+| Métrique | Score |
+----------------------
+| Accuracy | 0.90 |
+| F1 macro | 0.90 |
+
+
+
+## Stack technique
+
+- **Modèle NLU :** XLM-RoBERTa (fine-tuning HuggingFace)
+- **Entity Extraction :** FuzzyWuzzy + Regex
+- **API :** FastAPI
+- **Langage :** Python 3.10+
+
+---
+
+## Structure du projet
+
+chatbot_health/
+├── backend/
+│   ├── app/
+│   │   ├── main.py
+│   │   ├── pipeline.py
+│   │   ├── classifier.py
+│   │   ├── entity_extractor.py
+│   │   └── models/
+│   │       └── intent_model/
+│   ├── datasets/
+│   │   ├── intent/
+│   │   │   ├── arabizi_intent.csv
+│   │   │   ├── arabe_darija.csv
+│   │   │   └── intent_final.csv
+│   │   └── entity/
+│   │       ├── medications.txt
+│   │       ├── body_part
+│   │       ├── frequency
+│   │       └── ...
+│   ├── notebooks/
+│   │   ├── 01_finetune_darija.ipynb
+│   │   └── 02_finetune_multilingual.ipynb
+│   └── requirements.txt
+├── docker-compose.yml
+└── README.md
+
+frontend/
+├── app/
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/
+│   ├── ChatBox.tsx
+│   ├── ResponseDisplay.tsx
+│   ├── theme-provider.tsx
+│   ├── hdbot/
+│   │   ├── chat-input.tsx
+│   │   ├── feature-card.tsx
+│   │   ├── feature-icon.tsx
+│   │   ├── header-controls.tsx
+│   │   ├── index.ts
+│   │   ├── logo.tsx
+│   │   ├── sidebar-nav-item.tsx
+│   │   ├── sidebar.tsx
+│   │   ├── warning-box.tsx
+│   │   └── welcome-hero.tsx
+│   └── ui/
+│       ├── accordion.tsx
+│       ├── alert-dialog.tsx
+│       ├── alert.tsx
+│       ├── avatar.tsx
+│       ├── badge.tsx
+│       ├── button.tsx
+│       ├── card.tsx
+│       ├── chart.tsx
+│       ├── checkbox.tsx
+│       ├── dialog.tsx
+│       ├── input.tsx
+│       ├── label.tsx
+│       ├── select.tsx
+│       └── ... (autres composants UI)
+├── hooks/
+│   └── use-mobile.ts
+├── lib/
+│   ├── api.ts
+│   └── utils.ts
+├── public/
+├── package.json
+├── tsconfig.json
+├── next.config.ts
+├── eslint.config.mjs
+├── postcss.config.mjs
+├── Dockerfile
+├── README.md
+├── AGENTS.md
+├── CLAUDE.md
+└── components.jsonchatbot_health/
+├── docker-compose.yml
+├── file_structrure.txt
+├── README.md
+└── requirements.txt
+---
+
+## Installation
+
+bash
+git clone https://github.com/HaitamF/chatbot_health
+cd chatbot_health
+docker-compose up --build
+
+
+Ou sans Docker :
+
+bash
+cd backend
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+
+----------
+
+## Endpoints et resultats 
+json :
+{
   "intent": "medication_request",
+  "confidence": 0.92,
+  "input_language": "darija",
   "entities": {
-    "medication": "doliprane",
-    "quantity": "2",
-    "symptom": "headache"
-  },
-  "confidence": 0.94,
-  "input_language": "darija"
+    "medication": "Doliprane",
+    "quantity": "3 boites",
+    "frequency": "2 fois par jour",
+    "duration": null,
+    "symptom": null,
+    "body_part": null,
+    "urgence_type": null,
+    "specialite": null,
+    "lieu": null,
+    "assurance": null
+  }
 }
 
-Work Split
-ComponentOwnerData preparation + preprocessingYoumBERT integration + classifierYouEntity extractorYouFastAPI layer + endpointsTeammateDocker environmentTeammateGit repository managementBoth
 
-Tech Stack
-ToolPurposePythonCore languageHugging Face TransformersmBERT modelScikit-learnLogistic Regression classifierPyDODaDarija normalizationFastAPIAPI layer (teammate)DockerEnvironment consistency (teammate)GitVersion control
+ajoute screenshot avec 3 a 4 exemple et tourner sur le taux de confiance et les resultats
+ ![alt text](question.png)
+![alt text](reponse.png)
+
+
+Le système peut être étendu vers la prise en charge vocale via AtlasIA MoulSot, le diagnostic médical assisté et le support de langues supplémentaires. À terme, il pourrait s'intégrer dans des plateformes de santé digitale marocaines pour améliorer l'accessibilité aux soins.
